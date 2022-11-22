@@ -1,0 +1,42 @@
+{
+  "Windfall Island - Kane - Decorate Shop Guru": {
+    "Need": "Rescued Aryll & Delivery Bag",
+    "Original item": "Purple Rupee",
+    "Types": "Obscure"
+  },
+  "Windfall Island - Kane - Decorate Postman Statue": {
+    "Need": "Rescued Aryll & Delivery Bag",
+    "Original item": "Purple Rupee",
+    "Types": "Obscure"
+  },
+  "Windfall Island - Kane - Decorate Flag": {
+    "Need": "Rescued Aryll & Delivery Bag",
+    "Original item": "Purple Rupee",
+    "Types": "Obscure"
+  },
+  "Windfall Island - Kane - Decorate Idol": {
+    "Need": "Rescued Aryll & Delivery Bag",
+    "Original item": "Purple Rupee",
+    "Types": "Obscure"
+  },
+  "Earth Temple - Behind Curtain in Warp Pot Room": {
+    "Need": "Can Access Earth Temple & Can Play Command Melody & Fire Arrows & Boomerang",
+    "Original item": "Joy Pendant",
+    "Types": "Dungeon, Obscure"
+  },
+  "Earth Temple - Behind Curtain Near Hammer Button": {
+    "Need": "Can Access Earth Temple & Can Play Command Melody & Fire Arrows & Boomerang & Can Play Earth God's Lyric",
+    "Original item": "Joy Pendant",
+    "Types": "Dungeon, Obscure"
+  },
+  "Rock Spire Isle - Beedle's Special Shop Ship - 500 Rupee Item": {
+    "Need": "Can Farm Lots of Rupees",
+    "Original item": "Piece of Heart",
+    "Types": "Expensive Purchase"
+  },
+  "Mailbox - Letter from Tingle": {
+    "Need": "Rescued Tingle & Can Access Other Location \"Forsaken Fortress - Helmaroc King Heart Container\" & Song of Passing",
+    "Original item": "IN-credible Chart",
+    "Types": "Mail, Dungeon, Expensive Purchase"
+  }
+}
