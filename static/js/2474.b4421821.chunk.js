@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktwwhd_test_tracker=self.webpackChunktwwhd_test_tracker||[]).push([[2474],{2474:function(t,e,s){t.exports=s.p+"static/media/boss3.c3b943880df3738a6bfc.png"}}]);
