@@ -31,7 +31,7 @@ export const itemMaxes = {
     "Cawlin's Letter": 1,
     'Horned Colossus Beetle': 1,
     'Baby Rattle': 1,
-    'Gratitude Crystal Pack': 13,
+    'Gratitude Crystal Pack': 16,
     'Progressive Slingshot': 2,
     'Progressive Beetle': 4,
     'Bomb Bag': 1,

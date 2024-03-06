@@ -1,5 +1,5 @@
 import { OptionDefs } from '../permalink/SettingsTypes';
-import { mapInventory, getAdditionalItems } from '../tracker/selectors';
+import { mapInventory, getAdditionalItems, settingSelector } from '../tracker/selectors';
 import { InventoryItem, isItem, itemMaxes } from './Inventory';
 import { PotentialLocations, getSemiLogicKeys } from './KeyLogic';
 import { Logic } from './Logic';
@@ -120,12 +120,13 @@ function semiLogicStep(
     );
 
     let changed = false;
+    const gratitudeCrystalShuffle = settingSelector('gratitude_crystal_shuffle');
     // The assumed number of loose gratitude crystals is the number of
     // loose crystal checks that are either checked or are in logic.
     for (const [checkId, checkDef] of Object.entries(logic.checks)) {
         if (state.semiLogicBits.test(logic.itemBits[checkId])) {
             if (
-                checkDef.type === 'loose_crystal' &&
+                checkDef.type === 'loose_crystal' && !gratitudeCrystalShuffle &&
                 !state.assumedChecks.has(checkId)
             ) {
                 state.assumedChecks.add(checkId);

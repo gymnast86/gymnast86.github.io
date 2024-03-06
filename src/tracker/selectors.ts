@@ -134,8 +134,9 @@ function getNumLooseGratitudeCrystals(
     logic: Logic,
     checkedChecks: Set<string>,
 ) {
+    const gratitudeCrystalShuffle = settingSelector('gratitude_crystal_shuffle');
     return [...checkedChecks].filter(
-        (check) => logic.checks[check]?.type === 'loose_crystal',
+        (check) => logic.checks[check]?.type === 'loose_crystal' && !gratitudeCrystalShuffle,
     ).length;
 }
 
@@ -564,7 +565,7 @@ const isCheckBannedSelector = createSelector(
         return (checkId: string, check: LogicalCheck) =>
             // Loose crystal checks can be banned to not require picking them up
             // in logic, but we want to allow marking them as collected.
-            (check.type !== 'loose_crystal' &&
+            ((check.type !== 'loose_crystal' || gratitudeCrystalShuffle) &&
                 (bannedChecks.has(check.name) ||
                     areaNonprogress(logic.checks[checkId].area!))) ||
             isBannedChestViaCube(checkId) ||
@@ -575,7 +576,6 @@ const isCheckBannedSelector = createSelector(
             (undergroundRupeesanity !== true && check.type === 'underground_rupee') ||
             (hiddenItemShuffle !== true && check.type === 'hidden_item') ||
             (npcClosetShuffle !== true && check.type === 'closet') ||
-            (gratitudeCrystalShuffle !== true && check.type === 'loose_crystal') ||
             (staminaFruitShuffle !== true && check.type === 'stamina_fruit');
     },
 );
@@ -728,6 +728,7 @@ export const areasSelector = createSelector(
         areaHiddenSelector,
         exitRulesSelector,
         counterBasisSelector,
+        settingSelector('gratitude_crystal_shuffle'),
     ],
     (
         logic,
@@ -738,6 +739,7 @@ export const areasSelector = createSelector(
         isAreaHidden,
         exitRules,
         counterBasis,
+        gratitudeCrystalShuffle,
     ): HintRegion[] =>
         _.compact(
             logic.hintRegions.map((area): HintRegion | undefined => {
@@ -751,7 +753,7 @@ export const areasSelector = createSelector(
                     (check) =>
                         logic.checks[check].type === 'gossip_stone' ||
                         logic.checks[check].type === 'tr_cube' ||
-                        logic.checks[check].type === 'loose_crystal',
+                        (logic.checks[check].type === 'loose_crystal' && !gratitudeCrystalShuffle),
                 );
 
                 const nonProgress = isAreaNonprogress(area);
