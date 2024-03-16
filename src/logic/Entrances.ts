@@ -32,7 +32,7 @@ export type ExitRule =
           /** This is a linked exit, e.g. interior dungeon exit when exterior exit into dungeon has been mapped. */
           type: 'linked';
           pool: LinkedEntrancePool;
-          /** The identifier of this pool entry ("Skyview", "Faron Silent Realm", ...) */
+          /** The identifier of this pool entry ("Skyview Temple", "Farore's Silent Realm", ...) */
           entry: string;
       }
     | {

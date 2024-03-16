@@ -46,7 +46,7 @@
             },
             {
                 "exitPool": "silent_realms",
-                "entryName": "Skyloft Silent Realm",
+                "entryName": "The Goddess's Silent Realm",
                 "markerX": 45,
                 "markerY": 85
             }
@@ -88,7 +88,7 @@
         "entranceMarkers": [
             {
                 "exitPool": "dungeons",
-                "entryName": "Skyview",
+                "entryName": "Skyview Temple",
                 "markerX": 58.5,
                 "markerY": 14
             },
@@ -100,7 +100,7 @@
             },
             {
                 "exitPool": "silent_realms",
-                "entryName": "Faron Silent Realm",
+                "entryName": "Farore's Silent Realm",
                 "markerX": 58,
                 "markerY": 40
             }
@@ -154,7 +154,7 @@
             },
             {
                 "exitPool": "silent_realms",
-                "entryName": "Eldin Silent Realm",
+                "entryName": "Din's Silent Realm",
                 "markerX": 36,
                 "markerY": 62
             }
@@ -218,19 +218,19 @@
             },
             {
                 "exitPool": "silent_realms",
-                "entryName": "Lanayru Silent Realm",
+                "entryName": "Nayru's Silent Realm",
                 "markerX": 64,
                 "markerY": 14
             }
         ]
     },
     "thunderhead": {
-        "region": "Thunderhead",
+        "region": "The Thunderhead",
         "markerX": 16,
         "markerY": 11
     },
     "sky": {
-        "region": "Sky",
+        "region": "The Sky",
         "markerX": 85,
         "markerY": 11
     }

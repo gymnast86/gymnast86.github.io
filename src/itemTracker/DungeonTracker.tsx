@@ -33,16 +33,16 @@ import {
 } from '../logic/Locations';
 
 const silentRealmData: Record<string, string> = {
-    'Faron Silent Realm': faronTrialGate,
-    'Eldin Silent Realm': eldinTrialGate,
-    'Lanayru Silent Realm': lanayruTrialGate,
-    'Skyloft Silent Realm': trialGate,
+    'Farore\'s Silent Realm': faronTrialGate,
+    'Din\'s Silent Realm': eldinTrialGate,
+    'Nayru\'s Silent Realm': lanayruTrialGate,
+    'The Goddess\'s Silent Realm': trialGate,
 };
 
 const dungeonData = {
-    Skyview: {
+    'Skyview Temple': {
         dungeonAbbr: 'SV',
-        dungeonName: 'Skyview',
+        dungeonName: 'Skyview Temple',
         bossIcon: g1,
     },
     'Earth Temple': {

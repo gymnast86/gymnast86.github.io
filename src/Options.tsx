@@ -128,6 +128,7 @@ const wellKnownRemotes = [
     'ssrando/main',
     'robojumper/logic-v2.1.1',
     'gymnast86/hd-logic',
+    'gymnast86/hd-logic-name-test'
 ];
 
 /**

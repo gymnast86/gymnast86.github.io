@@ -62,7 +62,7 @@ export interface AssignableExitMapping extends AbstractExitMapping {
 export type ExitMapping = ReadOnlyExitMapping | AssignableExitMapping;
 
 export const dungeonNames = [
-    'Skyview',
+    'Skyview Temple',
     'Earth Temple',
     'Lanayru Mining Facility',
     'Ancient Cistern',

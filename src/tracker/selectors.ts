@@ -549,6 +549,8 @@ const isCheckBannedSelector = createSelector(
             checkId: string,
             check: LogicalCheck,
         ) => {
+            console.log(cubeCheckToGoddessChestCheck[checkId])
+            console.log(logic.checks)
             return (
                 check.type === 'tr_cube' &&
                 bannedChecks.has(
