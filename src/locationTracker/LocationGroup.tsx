@@ -6,9 +6,11 @@ import _ from 'lodash';
 
 export default function LocationGroup({
     locations,
+    area,
 }: {
     /* the list of locations this group contains */
     locations: string[];
+    area: string;
 }) {
     const mapMode = useSelector(locationLayoutSelector) === 'map';
     const numColumns = mapMode ? 2 : 1;
@@ -21,7 +23,7 @@ export default function LocationGroup({
                 border: `1px solid var(--scheme-text)`,
             }}
         >
-            <Location id={location} />
+            <Location id={location} area={area} />
         </Row>
     ));
     const locationColumns = _.chunk(

@@ -133,25 +133,25 @@ describe('full logic tests', () => {
         expect(checkState(goddessChest)).toBe('inLogic');;
     });
 
-    it('bans goddess chest if cube is in EUD Skyview', () => {
+    it('bans goddess chest if cube is in EUD Skyview Temple', () => {
         const chestName = 'Lumpy Pumpkin\\Goddess Chest on the Roof';
-        const cubeName = 'Goddess Cube in Skyview Spring';
+        const cubeName = 'Goddess Cube in Skyview Temple Spring';
 
         updateSettings('excluded-locations', []);
         updateSettings('empty-unrequired-dungeons', true);
         expectCheckAbsent('Sky', chestName);
-        expectCheckAbsent('Skyview', cubeName);
+        expectCheckAbsent('Skyview Temple', cubeName);
 
         // Either EUD is off
         updateSettings('empty-unrequired-dungeons', false);
         findCheckId('Sky', chestName);
-        findCheckId('Skyview', cubeName);
+        findCheckId('Skyview Temple', cubeName);
 
         // Or SV is required
         updateSettings('empty-unrequired-dungeons', true);
-        store.dispatch(clickDungeonName({ dungeonName: 'Skyview' }));
+        store.dispatch(clickDungeonName({ dungeonName: 'Skyview Temple' }));
         findCheckId('Sky', chestName);
-        findCheckId('Skyview', cubeName);
+        findCheckId('Skyview Temple', cubeName);
     });
 
     it('shows or hides Sky Keep depending on settings', () => {

@@ -49,7 +49,7 @@ export const triforceItemReplacement = 'Triforce';
 // logically fulfilled when the player completes the dungeon, not
 // when they gain the ability to do so (semilogic...)
 export const dungeonCompletionItems: Record<string, string> = {
-    Skyview: '\\Tracker\\Skyview Completed',
+    'Skyview Temple': '\\Tracker\\Skyview Temple Completed',
     'Earth Temple': '\\Tracker\\Earth Temple Completed',
     'Lanayru Mining Facility': '\\Tracker\\Lanayru Mining Facility Completed',
     'Ancient Cistern': '\\Tracker\\Ancient Cistern Completed',

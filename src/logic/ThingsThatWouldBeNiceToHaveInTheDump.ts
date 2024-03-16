@@ -52,7 +52,7 @@ export const runtimeOptions: OptionMapping[] = [
 ];
 
 export const impaSongCheck =
-    '\\Faron\\Sealed Grounds\\Sealed Temple\\Song from Impa';
+    '\\Faron\\Sealed Grounds\\Sealed Temple\\Song from The Old One';
 export const completeTriforceReq = '\\Complete Triforce';
 
 export const swordsToAdd = {

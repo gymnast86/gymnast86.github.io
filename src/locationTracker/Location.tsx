@@ -20,8 +20,10 @@ export interface LocationContextMenuProps {
 
 export default function Location({
     id,
+    area,
 }: {
     id: string;
+    area: string;
 }) {
     const dispatch = useDispatch();
     const hintItem = useSelector(checkHintSelector(id));
@@ -53,6 +55,11 @@ export default function Location({
 
     const expr = useTooltipExpr(id);
     const path = useEntrancePath(id);
+
+    // Slice off area name if it's the current area
+    if (check.checkName.indexOf(`${area} - `) >= 0) {
+        check.checkName = check.checkName.slice(check.checkName.indexOf(`${area} - `) + (`${area} - `).length);
+    }
 
     return (
         <Tooltip content={

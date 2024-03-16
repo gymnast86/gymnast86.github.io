@@ -332,10 +332,10 @@ items:
 - 'Silver Rupee #9'
 - Sky Keep Map
 - Sky Keep Small Key
-- Skyview Boss Key
-- Skyview Map
-- 'Skyview Small Key #0'
-- 'Skyview Small Key #1'
+- Skyview Temple Boss Key
+- Skyview Temple Map
+- 'Skyview Temple Small Key #0'
+- 'Skyview Temple Small Key #1'
 - Small Bomb Bag
 - Small Quiver
 - Small Seed Satchel
@@ -393,8 +393,8 @@ items:
 - Cactus Bomb Whip Trick
 - Skipper's Retreat Fast Clawshots Trick
 - Pirate Stronghold - Beetle Pillar Checks Trick
-- Skyview - Spider Roll Trick
-- Skyview Slingshot Shot Trick
+- Skyview Temple - Spider Roll Trick
+- Skyview Temple Slingshot Shot Trick
 - Earth Temple - Keese Yeet Trick
 - Earth Temple - Slope Stuttersprint Trick
 - Earth Temple - Bomb Flower Scaldera Trick
@@ -841,17 +841,17 @@ items:
 - \Eldin\Mogma Turf\Pre Vent\Open Vent
 - \Eldin\Mogma Turf\Sand Slide Platform\Sand Slide Chest
 - \Eldin\Mogma Turf\Past Vent\Chest behind Bombable Wall in Fire Maze
-- \Eldin\Eldin Silent Realm\Trial Reward
-- \Eldin\Eldin Silent Realm\Relic 1
-- \Eldin\Eldin Silent Realm\Relic 2
-- \Eldin\Eldin Silent Realm\Relic 3
-- \Eldin\Eldin Silent Realm\Relic 4
-- \Eldin\Eldin Silent Realm\Relic 5
-- \Eldin\Eldin Silent Realm\Relic 6
-- \Eldin\Eldin Silent Realm\Relic 7
-- \Eldin\Eldin Silent Realm\Relic 8
-- \Eldin\Eldin Silent Realm\Relic 9
-- \Eldin\Eldin Silent Realm\Relic 10
+- \Eldin\Din's Silent Realm\Trial Reward
+- \Eldin\Din's Silent Realm\Relic 1
+- \Eldin\Din's Silent Realm\Relic 2
+- \Eldin\Din's Silent Realm\Relic 3
+- \Eldin\Din's Silent Realm\Relic 4
+- \Eldin\Din's Silent Realm\Relic 5
+- \Eldin\Din's Silent Realm\Relic 6
+- \Eldin\Din's Silent Realm\Relic 7
+- \Eldin\Din's Silent Realm\Relic 8
+- \Eldin\Din's Silent Realm\Relic 9
+- \Eldin\Din's Silent Realm\Relic 10
 - \Eldin\Volcano Summit\Goddess Cube inside Volcano Summit
 - \Eldin\Volcano Summit\Waterfall\Goddess Cube in Summit Waterfall
 - \Eldin\Volcano Summit\Waterfall\Higher Area\Chest behind Bombable Wall in Waterfall
@@ -926,19 +926,19 @@ items:
 - \Faron\Faron Woods\Deep Woods\Gossip Stone in Deep Woods
 - \Faron\Faron Woods\Deep Woods\Initial Goddess Cube
 - \Faron\Faron Woods\Deep Woods\Goddess Cube in Deep Woods
-- \Faron\Faron Woods\Deep Woods\Goddess Cube on top of Skyview
+- \Faron\Faron Woods\Deep Woods\Goddess Cube on top of Skyview Temple
 - \Faron\Faron Woods\Deep Woods\Entry\Hornet Larvae Farming
-- \Faron\Faron Silent Realm\Trial Reward
-- \Faron\Faron Silent Realm\Relic 1
-- \Faron\Faron Silent Realm\Relic 2
-- \Faron\Faron Silent Realm\Relic 3
-- \Faron\Faron Silent Realm\Relic 4
-- \Faron\Faron Silent Realm\Relic 5
-- \Faron\Faron Silent Realm\Relic 6
-- \Faron\Faron Silent Realm\Relic 7
-- \Faron\Faron Silent Realm\Relic 8
-- \Faron\Faron Silent Realm\Relic 9
-- \Faron\Faron Silent Realm\Relic 10
+- \Faron\Farore's Silent Realm\Trial Reward
+- \Faron\Farore's Silent Realm\Relic 1
+- \Faron\Farore's Silent Realm\Relic 2
+- \Faron\Farore's Silent Realm\Relic 3
+- \Faron\Farore's Silent Realm\Relic 4
+- \Faron\Farore's Silent Realm\Relic 5
+- \Faron\Farore's Silent Realm\Relic 6
+- \Faron\Farore's Silent Realm\Relic 7
+- \Faron\Farore's Silent Realm\Relic 8
+- \Faron\Farore's Silent Realm\Relic 9
+- \Faron\Farore's Silent Realm\Relic 10
 - \Faron\Flooded Faron Woods\Yellow Tadtone under Lilypad
 - \Faron\Flooded Faron Woods\8 Light Blue Tadtones near Viewing Platform
 - \Faron\Flooded Faron Woods\4 Purple Tadtones under Viewing Platform
@@ -1131,17 +1131,17 @@ items:
 - \Lanayru\Temple of Time\Inside\Unlock Statue
 - \Lanayru\Temple of Time\Near Goddess Cube\Timeshift Stone
 - \Lanayru\Temple of Time\Near Goddess Cube\Goddess Cube at Ride near Temple of Time
-- \Lanayru\Lanayru Silent Realm\Trial Reward
-- \Lanayru\Lanayru Silent Realm\Relic 1
-- \Lanayru\Lanayru Silent Realm\Relic 2
-- \Lanayru\Lanayru Silent Realm\Relic 3
-- \Lanayru\Lanayru Silent Realm\Relic 4
-- \Lanayru\Lanayru Silent Realm\Relic 5
-- \Lanayru\Lanayru Silent Realm\Relic 6
-- \Lanayru\Lanayru Silent Realm\Relic 7
-- \Lanayru\Lanayru Silent Realm\Relic 8
-- \Lanayru\Lanayru Silent Realm\Relic 9
-- \Lanayru\Lanayru Silent Realm\Relic 10
+- \Lanayru\Nayru's Silent Realm\Trial Reward
+- \Lanayru\Nayru's Silent Realm\Relic 1
+- \Lanayru\Nayru's Silent Realm\Relic 2
+- \Lanayru\Nayru's Silent Realm\Relic 3
+- \Lanayru\Nayru's Silent Realm\Relic 4
+- \Lanayru\Nayru's Silent Realm\Relic 5
+- \Lanayru\Nayru's Silent Realm\Relic 6
+- \Lanayru\Nayru's Silent Realm\Relic 7
+- \Lanayru\Nayru's Silent Realm\Relic 8
+- \Lanayru\Nayru's Silent Realm\Relic 9
+- \Lanayru\Nayru's Silent Realm\Relic 10
 - \Lanayru\Caves\Chest
 - \Lanayru\Caves\Golo's Gift
 - \Lanayru\Caves\Gossip Stone in Center
@@ -1217,11 +1217,11 @@ items:
 - \Sandship\Boss Room\Nayru's Flame
 - \Sky Keep\Main\First Room\First Chest
 - \Sky Keep\Main\First Room\Right Exit
-- \Sky Keep\Main\Skyview Room\Beginning\Free Rope
-- \Sky Keep\Main\Skyview Room\Beginning\Kill Pyrups
-- \Sky Keep\Main\Skyview Room\Beginning\Left Exit
-- \Sky Keep\Main\Skyview Room\End\Lever
-- \Sky Keep\Main\Skyview Room\End\Top Exit
+- \Sky Keep\Main\Skyview Temple Room\Beginning\Free Rope
+- \Sky Keep\Main\Skyview Temple Room\Beginning\Kill Pyrups
+- \Sky Keep\Main\Skyview Temple Room\Beginning\Left Exit
+- \Sky Keep\Main\Skyview Temple Room\End\Lever
+- \Sky Keep\Main\Skyview Temple Room\End\Top Exit
 - \Sky Keep\Main\LMF Room\Finish Room
 - \Sky Keep\Main\LMF Room\Bottom Exit
 - \Sky Keep\Main\LMF Room\Top Exit
@@ -1361,17 +1361,17 @@ items:
 - \Skyloft\Central Skyloft\Waterfall Cave\Rupee Waterfall Cave Crawlspace
 - \Skyloft\Central Skyloft\Past Waterfall Cave\Crystal after Waterfall Cave
 - \Skyloft\Central Skyloft\Past Waterfall Cave\Crystal in Loftwing Prison
-- \Skyloft\Skyloft Silent Realm\Trial Reward
-- \Skyloft\Skyloft Silent Realm\Relic 1
-- \Skyloft\Skyloft Silent Realm\Relic 2
-- \Skyloft\Skyloft Silent Realm\Relic 3
-- \Skyloft\Skyloft Silent Realm\Relic 4
-- \Skyloft\Skyloft Silent Realm\Relic 5
-- \Skyloft\Skyloft Silent Realm\Relic 6
-- \Skyloft\Skyloft Silent Realm\Relic 7
-- \Skyloft\Skyloft Silent Realm\Relic 8
-- \Skyloft\Skyloft Silent Realm\Relic 9
-- \Skyloft\Skyloft Silent Realm\Relic 10
+- \Skyloft\The Goddess's Silent Realm\Trial Reward
+- \Skyloft\The Goddess's Silent Realm\Relic 1
+- \Skyloft\The Goddess's Silent Realm\Relic 2
+- \Skyloft\The Goddess's Silent Realm\Relic 3
+- \Skyloft\The Goddess's Silent Realm\Relic 4
+- \Skyloft\The Goddess's Silent Realm\Relic 5
+- \Skyloft\The Goddess's Silent Realm\Relic 6
+- \Skyloft\The Goddess's Silent Realm\Relic 7
+- \Skyloft\The Goddess's Silent Realm\Relic 8
+- \Skyloft\The Goddess's Silent Realm\Relic 9
+- \Skyloft\The Goddess's Silent Realm\Relic 10
 - \Skyloft\Skyloft Village\Crystal near Pumpkin Patch
 - \Skyloft\Skyloft Village\Opened Shed
 - \Skyloft\Skyloft Village\Bertie's House\Bertie's Crystals
@@ -1397,46 +1397,46 @@ items:
 - \Skyloft\Beedle's Shop\Stall\Third 100 Rupee Item
 - \Skyloft\Beedle's Shop\Stall\50 Rupee Item
 - \Skyloft\Beedle's Shop\Stall\1000 Rupee Item
-- \Skyview\Skyview 2
-- \Skyview\Can Hit High Skyview Switches
-- \Skyview\Can Cut Tree
-- \Skyview\Main\Entry\Cut Tree
-- \Skyview\Main\First Room\Destroy Barricade
-- \Skyview\Main\First Room\Switch to One Eye Room
-- \Skyview\Main\First Room\Goddess Wall Trigger
-- \Skyview\Main\One Eye Room\Unlock Door to First Hub
-- \Skyview\Main\First Hub\Switch to Left Room
-- \Skyview\Main\First Hub\Switch to Right Room
-- \Skyview\Main\First Hub\One Water Raise
-- \Skyview\Main\First Hub\Left Room\Hit Vines
-- \Skyview\Main\First Hub\Left Room\Spider Roll
-- \Skyview\Main\First Hub\Left Room\Raise Water
-- \Skyview\Main\First Hub\Left Room\Chest on Tree Branch
-- \Skyview\Main\First Hub\Right Room\After Crawlspace\Raise Water
-- \Skyview\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace
-- \Skyview\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes
-- \Skyview\Main\Second Hub\Rupee in Southeast Tunnel
-- \Skyview\Main\Second Hub\Rupee in Southwest Tunnel
-- \Skyview\Main\Second Hub\Rupee in East Tunnel
-- \Skyview\Main\Second Hub\Switch to Miniboss Room
-- \Skyview\Main\Second Hub\Switch for Bars
-- \Skyview\Main\Second Hub\Switch to Left Room
-- \Skyview\Main\Second Hub\Item behind Bars
-- \Skyview\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight
-- \Skyview\Main\Second Hub\Left Rooms\Chest behind Three Eyes
-- \Skyview\Main\Second Hub\Staldra Room\Can Defeat Staldra
-- \Skyview\Main\Last Room\Near East Entrance\Deal with Hanging Skulltula
-- \Skyview\Main\Last Room\Before Rope\Unlock Shortcut to Second Hub
-- \Skyview\Main\Last Room\Before Rope\Deal with Archers
-- \Skyview\Main\Last Room\After Rope\Chest near Boss Door
-- \Skyview\Main\Last Room\After Rope\Hit Vines
-- \Skyview\Main\Last Room\Near Boss Key Chest\Boss Key Chest
-- \Skyview\Boss Room\Beat Ghirahim
-- \Skyview\Boss Room\Heart Container
-- \Skyview\Spring\Rupee on Spring Pillar
-- \Skyview\Spring\Strike Crest
-- \Skyview\Spring\Goddess Cube in Skyview Spring
-- \Skyview\Spring\Sacred Water
+- \Skyview Temple\Skyview Temple 2
+- \Skyview Temple\Can Hit High Skyview Temple Switches
+- \Skyview Temple\Can Cut Tree
+- \Skyview Temple\Main\Entry\Cut Tree
+- \Skyview Temple\Main\First Room\Destroy Barricade
+- \Skyview Temple\Main\First Room\Switch to One Eye Room
+- \Skyview Temple\Main\First Room\Goddess Wall Trigger
+- \Skyview Temple\Main\One Eye Room\Unlock Door to First Hub
+- \Skyview Temple\Main\First Hub\Switch to Left Room
+- \Skyview Temple\Main\First Hub\Switch to Right Room
+- \Skyview Temple\Main\First Hub\One Water Raise
+- \Skyview Temple\Main\First Hub\Left Room\Hit Vines
+- \Skyview Temple\Main\First Hub\Left Room\Spider Roll
+- \Skyview Temple\Main\First Hub\Left Room\Raise Water
+- \Skyview Temple\Main\First Hub\Left Room\Chest on Tree Branch
+- \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\Raise Water
+- \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace
+- \Skyview Temple\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes
+- \Skyview Temple\Main\Second Hub\Rupee in Southeast Tunnel
+- \Skyview Temple\Main\Second Hub\Rupee in Southwest Tunnel
+- \Skyview Temple\Main\Second Hub\Rupee in East Tunnel
+- \Skyview Temple\Main\Second Hub\Switch to Miniboss Room
+- \Skyview Temple\Main\Second Hub\Switch for Bars
+- \Skyview Temple\Main\Second Hub\Switch to Left Room
+- \Skyview Temple\Main\Second Hub\Item behind Bars
+- \Skyview Temple\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight
+- \Skyview Temple\Main\Second Hub\Left Rooms\Chest behind Three Eyes
+- \Skyview Temple\Main\Second Hub\Staldra Room\Can Defeat Staldra
+- \Skyview Temple\Main\Last Room\Near East Entrance\Deal with Hanging Skulltula
+- \Skyview Temple\Main\Last Room\Before Rope\Unlock Shortcut to Second Hub
+- \Skyview Temple\Main\Last Room\Before Rope\Deal with Archers
+- \Skyview Temple\Main\Last Room\After Rope\Chest near Boss Door
+- \Skyview Temple\Main\Last Room\After Rope\Hit Vines
+- \Skyview Temple\Main\Last Room\Near Boss Key Chest\Boss Key Chest
+- \Skyview Temple\Boss Room\Beat Ghirahim
+- \Skyview Temple\Boss Room\Heart Container
+- \Skyview Temple\Spring\Rupee on Spring Pillar
+- \Skyview Temple\Spring\Strike Crest
+- \Skyview Temple\Spring\Goddess Cube in Skyview Temple Spring
+- \Skyview Temple\Spring\Sacred Water
 - \Ancient Cistern\Main\Main Room\After Whip Hooks
 - \Ancient Cistern\Main\Main Room\Vines Area
 - \Ancient Cistern\Main\Main Room\Behind the Waterfall
@@ -1490,7 +1490,7 @@ items:
 - \Eldin\Mogma Turf\Sand Slide Platform
 - \Eldin\Mogma Turf\Past Vent
 - \Eldin\Mogma Turf
-- \Eldin\Eldin Silent Realm
+- \Eldin\Din's Silent Realm
 - \Eldin\Volcano Summit\Waterfall\Higher Area
 - \Eldin\Volcano Summit\Waterfall
 - \Eldin\Volcano Summit\Outside Fire Sanctuary\Before Thirsty Frogs
@@ -1534,7 +1534,7 @@ items:
 - \Faron\Faron Woods\Deep Woods\Entry
 - \Faron\Faron Woods\Deep Woods
 - \Faron\Faron Woods
-- \Faron\Faron Silent Realm
+- \Faron\Farore's Silent Realm
 - \Faron\Flooded Faron Woods\Flooded Great Tree
 - \Faron\Flooded Faron Woods
 - \Faron\Lake Floria\Above Rock
@@ -1640,7 +1640,7 @@ items:
 - \Lanayru\Temple of Time\Near Goddess Cube
 - \Lanayru\Temple of Time\North East
 - \Lanayru\Temple of Time
-- \Lanayru\Lanayru Silent Realm
+- \Lanayru\Nayru's Silent Realm
 - \Lanayru\Caves\Past Door to Lanayru Sand Sea
 - \Lanayru\Caves\Past Crawlspace
 - \Lanayru\Caves
@@ -1677,9 +1677,9 @@ items:
 - \Sandship\Boss Room
 - \Sandship
 - \Sky Keep\Main\First Room
-- \Sky Keep\Main\Skyview Room\Beginning
-- \Sky Keep\Main\Skyview Room\End
-- \Sky Keep\Main\Skyview Room
+- \Sky Keep\Main\Skyview Temple Room\Beginning
+- \Sky Keep\Main\Skyview Temple Room\End
+- \Sky Keep\Main\Skyview Temple Room
 - \Sky Keep\Main\LMF Room
 - \Sky Keep\Main\Earth Temple Room
 - \Sky Keep\Main\Mini Boss Room\From Bottom
@@ -1763,8 +1763,8 @@ items:
 - \Skyloft\Central Skyloft\Past Waterfall Cave_NIGHT
 - \Skyloft\Central Skyloft_DAY
 - \Skyloft\Central Skyloft_NIGHT
-- \Skyloft\Skyloft Silent Realm_DAY
-- \Skyloft\Skyloft Silent Realm_NIGHT
+- \Skyloft\The Goddess's Silent Realm_DAY
+- \Skyloft\The Goddess's Silent Realm_NIGHT
 - \Skyloft\Skyloft Village\Bertie's House_DAY
 - \Skyloft\Skyloft Village\Bertie's House_NIGHT
 - \Skyloft\Skyloft Village\Sparrot's House_DAY
@@ -1785,29 +1785,29 @@ items:
 - \Skyloft\Beedle's Shop_NIGHT
 - \Skyloft_DAY
 - \Skyloft_NIGHT
-- \Skyview\Main\Entry
-- \Skyview\Main\First Room
-- \Skyview\Main\One Eye Room
-- \Skyview\Main\First Hub\Left Room
-- \Skyview\Main\First Hub\Right Room\Lower Area
-- \Skyview\Main\First Hub\Right Room\After Crawlspace\With Water
-- \Skyview\Main\First Hub\Right Room\After Crawlspace
-- \Skyview\Main\First Hub\Right Room\Upper Area
-- \Skyview\Main\First Hub\Right Room
-- \Skyview\Main\First Hub
-- \Skyview\Main\Second Hub\Miniboss Room
-- \Skyview\Main\Second Hub\Left Rooms
-- \Skyview\Main\Second Hub\Staldra Room
-- \Skyview\Main\Second Hub
-- \Skyview\Main\Last Room\Near East Entrance
-- \Skyview\Main\Last Room\Before Rope
-- \Skyview\Main\Last Room\After Rope
-- \Skyview\Main\Last Room\Near Boss Key Chest
-- \Skyview\Main\Last Room
-- \Skyview\Main
-- \Skyview\Boss Room
-- \Skyview\Spring
-- \Skyview
+- \Skyview Temple\Main\Entry
+- \Skyview Temple\Main\First Room
+- \Skyview Temple\Main\One Eye Room
+- \Skyview Temple\Main\First Hub\Left Room
+- \Skyview Temple\Main\First Hub\Right Room\Lower Area
+- \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\With Water
+- \Skyview Temple\Main\First Hub\Right Room\After Crawlspace
+- \Skyview Temple\Main\First Hub\Right Room\Upper Area
+- \Skyview Temple\Main\First Hub\Right Room
+- \Skyview Temple\Main\First Hub
+- \Skyview Temple\Main\Second Hub\Miniboss Room
+- \Skyview Temple\Main\Second Hub\Left Rooms
+- \Skyview Temple\Main\Second Hub\Staldra Room
+- \Skyview Temple\Main\Second Hub
+- \Skyview Temple\Main\Last Room\Near East Entrance
+- \Skyview Temple\Main\Last Room\Before Rope
+- \Skyview Temple\Main\Last Room\After Rope
+- \Skyview Temple\Main\Last Room\Near Boss Key Chest
+- \Skyview Temple\Main\Last Room
+- \Skyview Temple\Main
+- \Skyview Temple\Boss Room
+- \Skyview Temple\Spring
+- \Skyview Temple
 - _DAY
 - _NIGHT
 - \Start
@@ -1839,7 +1839,7 @@ items:
 - \Skyloft\Beedle's Shop\Day Exit
 - \Skyloft\Beedle's Shop\Night Exit
 - \Skyloft\Central Skyloft\Exit to Beedle's Shop
-- \Skyloft\Skyloft Silent Realm\Exit
+- \Skyloft\The Goddess's Silent Realm\Exit
 - \Skyloft\Central Skyloft\Trial Gate Exit
 - \Skyloft\Central Skyloft\Near Temple Entrance\Exit to Sky Keep
 - \Skyloft\Central Skyloft\Orielle and Parrow's House\Exit
@@ -1926,7 +1926,7 @@ items:
 - \Faron\Faron Woods\Lake Floria Dive
 - \Faron\Faron Woods\Ledge to Lake Floria\Shortcut Exit to Floria Waterfall
 - \Faron\Faron Woods\Trial Gate Exit
-- \Faron\Faron Silent Realm\Exit
+- \Faron\Farore's Silent Realm\Exit
 - \Faron\Faron Woods\Great Tree\Platforms\Lower Exit to Great Tree
 - \Faron\Faron Woods\Great Tree\Platforms\Upper Exit to Great Tree
 - \Faron\Faron Woods\Great Tree\Top\Top Exit to Great Tree
@@ -1943,7 +1943,7 @@ items:
 - \Faron\Flooded Faron Woods\Exit to Lower Flooded Great Tree
 - \Faron\Faron Woods\Deep Woods\Shared Statue Exit
 - \Faron\Faron Woods\Deep Woods\Entry\Exit to Faron Woods
-- \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple
+- \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple Temple
 - \Faron\Lake Floria\Below Rock\Emerged Area\Statue Exit
 - \Faron\Lake Floria\Below Rock\Exit to Farore's Lair
 - \Faron\Lake Floria\Farore's Lair\Exit to Lake Floria
@@ -1952,11 +1952,11 @@ items:
 - \Faron\Lake Floria\Waterfall\Exit to Farore's Lair
 - \Faron\Lake Floria\Waterfall\Exit to Ancient Cistern
 - \Faron\Lake Floria\Waterfall\Exit to Faron Woods
-- \Skyview\Main\Entry\Main Exit
-- \Skyview\Main\Last Room\After Rope\Boss Door Exit
-- \Skyview\Boss Room\Exit to Dungeon
-- \Skyview\Boss Room\Exit to Spring
-- \Skyview\Spring\Exit
+- \Skyview Temple\Main\Entry\Main Exit
+- \Skyview Temple\Main\Last Room\After Rope\Boss Door Exit
+- \Skyview Temple\Boss Room\Exit to Dungeon
+- \Skyview Temple\Boss Room\Exit to Spring
+- \Skyview Temple\Spring\Exit
 - \Ancient Cistern\Main\Main Room\Main Exit
 - \Ancient Cistern\Main\Inside Statue\Boss Door Exit
 - \Ancient Cistern\Boss Room\Exit to Dungeon
@@ -1976,7 +1976,7 @@ items:
 - \Eldin\Mogma Turf\Pre Vent\First Vent
 - \Eldin\Mogma Turf\Past Vent\Second Vent
 - \Eldin\Volcano\Thrill Digger Cave\Exit
-- \Eldin\Eldin Silent Realm\Exit
+- \Eldin\Din's Silent Realm\Exit
 - \Eldin\Volcano Summit\Exit to Eldin Volcano
 - \Eldin\Volcano Summit\Exit to Waterfall
 - \Eldin\Volcano Summit\Exit to Outside Fire Sanctuary
@@ -2011,7 +2011,7 @@ items:
 - \Lanayru\Desert\Top of LMF\Exit to Lanayru Mining Facility
 - \Lanayru\Desert\Near South Exit to Temple of Time\Ledge to Caves\Exit to Caves
 - \Lanayru\Desert\North Part\Trial Gate Exit
-- \Lanayru\Lanayru Silent Realm\Exit
+- \Lanayru\Nayru's Silent Realm\Exit
 - \Lanayru\Desert\North Part\Lightning Node\Present\Exit
 - \Lanayru\Desert\East\Fire Node\Present\Exit
 - \Lanayru\Temple of Time\Shared Statue Exit
@@ -2118,8 +2118,8 @@ items:
 - \Skyloft\Beedle's Shop\Night Entrance
 - \Skyloft\Central Skyloft\Entrance from Beedle's Shop_DAY
 - \Skyloft\Central Skyloft\Entrance from Beedle's Shop_NIGHT
-- \Skyloft\Skyloft Silent Realm\Entrance_DAY
-- \Skyloft\Skyloft Silent Realm\Entrance_NIGHT
+- \Skyloft\The Goddess's Silent Realm\Entrance_DAY
+- \Skyloft\The Goddess's Silent Realm\Entrance_NIGHT
 - \Skyloft\Central Skyloft\Trial Gate Entrance_DAY
 - \Skyloft\Central Skyloft\Trial Gate Entrance_NIGHT
 - \Skyloft\Central Skyloft\Near Temple Entrance\Entrance from Sky Keep
@@ -2208,7 +2208,7 @@ items:
 - \Faron\Faron Woods\Ledge to Lake Floria\Shortcut Entrance from Floria Waterfall
 - \Faron\Faron Woods\Ledge To Deep Woods\Entrance from Deep Woods
 - \Faron\Faron Woods\Trial Gate Entrance
-- \Faron\Faron Silent Realm\Entrance
+- \Faron\Farore's Silent Realm\Entrance
 - \Faron\Faron Woods\Great Tree\Platforms\Lower Entrance from Great Tree
 - \Faron\Faron Woods\Great Tree\Platforms\Upper Entrance from Great Tree
 - \Faron\Faron Woods\Great Tree\Top\Top Entrance from Great Tree
@@ -2228,7 +2228,7 @@ items:
 - \Faron\Faron Woods\Deep Woods\Forest Temple Statue Entrance
 - \Faron\Faron Woods\Deep Woods\Deep Woods Statue Entrance
 - \Faron\Faron Woods\Deep Woods\Entry\Entrance from Faron Woods
-- \Faron\Faron Woods\Deep Woods\Entrance from Skyview Temple
+- \Faron\Faron Woods\Deep Woods\Entrance from Skyview Temple Temple
 - \Faron\Lake Floria\Below Rock\Emerged Area\Statue Entrance
 - \Faron\Lake Floria\Above Rock\Dive from Faron Woods
 - \Faron\Lake Floria\Below Rock\Entrance from Farore's Lair
@@ -2238,11 +2238,11 @@ items:
 - \Faron\Lake Floria\Waterfall\Entrance from Farore's Lair
 - \Faron\Lake Floria\Waterfall\Entrance from Ancient Cistern
 - \Faron\Lake Floria\Waterfall\Entrance from Faron Woods
-- \Skyview\Main\Entry\Main Entrance
-- \Skyview\Main\Last Room\After Rope\Boss Door Entrance
-- \Skyview\Boss Room\Entrance from Dungeon
-- \Skyview\Boss Room\Entrance from Spring
-- \Skyview\Spring\Entrance
+- \Skyview Temple\Main\Entry\Main Entrance
+- \Skyview Temple\Main\Last Room\After Rope\Boss Door Entrance
+- \Skyview Temple\Boss Room\Entrance from Dungeon
+- \Skyview Temple\Boss Room\Entrance from Spring
+- \Skyview Temple\Spring\Entrance
 - \Ancient Cistern\Main\Main Room\Main Entrance
 - \Ancient Cistern\Main\Inside Statue\Boss Door Entrance
 - \Ancient Cistern\Boss Room\Entrance from Dungeon
@@ -2264,7 +2264,7 @@ items:
 - \Eldin\Bokoblin Base\Prison\Entrance
 - \Eldin\Mogma Turf\Pre Vent\Entrance
 - \Eldin\Volcano\Thrill Digger Cave\Entrance
-- \Eldin\Eldin Silent Realm\Entrance
+- \Eldin\Din's Silent Realm\Entrance
 - \Eldin\Volcano Summit\Entrance from Outside Fire Sanctuary
 - \Eldin\Volcano Summit\Entrance from Waterfall
 - \Eldin\Volcano Summit\Entrance from Eldin Volcano
@@ -2305,7 +2305,7 @@ items:
 - \Lanayru\Desert\Near South Exit to Temple of Time\Ledge to Caves\Entrance from Caves
 - \Lanayru\Desert\North Part\Lightning Node Entrance
 - \Lanayru\Desert\North Part\Trial Gate Entrance
-- \Lanayru\Lanayru Silent Realm\Entrance
+- \Lanayru\Nayru's Silent Realm\Entrance
 - \Lanayru\Desert\North Part\Lightning Node\Present\Entrance
 - \Lanayru\Desert\East\Fire Node\Present\Entrance
 - \Lanayru\Temple of Time\South East\Desert Gorge Statue Entrance
@@ -3498,7 +3498,7 @@ areas:
               sub_areas: {}
               toplevel_alias: null
           toplevel_alias: null
-        Eldin Silent Realm:
+        Din's Silent Realm:
           abstract: false
           allowed_time_of_day: 1
           can_save: false
@@ -3507,7 +3507,7 @@ areas:
           - Entrance
           exits:
             Exit: 'True'
-          hint_region: Eldin Silent Realm
+          hint_region: Din's Silent Realm
           locations:
             Trial Reward: 'True'
             Relic 1: 'True'
@@ -3520,7 +3520,7 @@ areas:
             Relic 8: 'True'
             Relic 9: 'True'
             Relic 10: 'True'
-          name: \Eldin\Eldin Silent Realm
+          name: \Eldin\Din's Silent Realm
           sub_areas: {}
           toplevel_alias: null
         Volcano Summit:
@@ -4267,11 +4267,11 @@ areas:
               entrances:
               - Deep Woods Statue Entrance
               - Forest Temple Statue Entrance
-              - Entrance from Skyview Temple
+              - Entrance from Skyview Temple Temple
               exits:
                 Shared Statue Exit: 'True'
                 \Faron\Faron Woods\Deep Woods\Entry: 'True'
-                Exit to Skyview Temple: \Distance Activator
+                Exit to Skyview Temple Temple: \Distance Activator
               hint_region: Faron Woods
               locations:
                 Deep Woods Chest: 'True'
@@ -4281,7 +4281,7 @@ areas:
                 Gossip Stone in Deep Woods: 'True'
                 Initial Goddess Cube: \Goddess Sword
                 Goddess Cube in Deep Woods: \Goddess Sword
-                Goddess Cube on top of Skyview: "\\Goddess Sword & Clawshots"
+                Goddess Cube on top of Skyview Temple: "\\Goddess Sword & Clawshots"
               name: \Faron\Faron Woods\Deep Woods
               sub_areas:
                 Entry:
@@ -4303,7 +4303,7 @@ areas:
                   toplevel_alias: null
               toplevel_alias: null
           toplevel_alias: Faron Woods
-        Faron Silent Realm:
+        Farore's Silent Realm:
           abstract: false
           allowed_time_of_day: 1
           can_save: false
@@ -4312,7 +4312,7 @@ areas:
           - Entrance
           exits:
             Exit: 'True'
-          hint_region: Faron Silent Realm
+          hint_region: Farore's Silent Realm
           locations:
             Trial Reward: 'True'
             Relic 1: 'True'
@@ -4325,7 +4325,7 @@ areas:
             Relic 8: 'True'
             Relic 9: 'True'
             Relic 10: 'True'
-          name: \Faron\Faron Silent Realm
+          name: \Faron\Farore's Silent Realm
           sub_areas: {}
           toplevel_alias: null
         Flooded Faron Woods:
@@ -6247,7 +6247,7 @@ areas:
               sub_areas: {}
               toplevel_alias: null
           toplevel_alias: null
-        Lanayru Silent Realm:
+        Nayru's Silent Realm:
           abstract: false
           allowed_time_of_day: 1
           can_save: false
@@ -6256,7 +6256,7 @@ areas:
           - Entrance
           exits:
             Exit: 'True'
-          hint_region: Lanayru Silent Realm
+          hint_region: Nayru's Silent Realm
           locations:
             Trial Reward: 'True'
             Relic 1: 'True'
@@ -6269,7 +6269,7 @@ areas:
             Relic 8: 'True'
             Relic 9: 'True'
             Relic 10: 'True'
-          name: \Lanayru\Lanayru Silent Realm
+          name: \Lanayru\Nayru's Silent Realm
           sub_areas: {}
           toplevel_alias: null
         Caves:
@@ -6952,7 +6952,7 @@ areas:
               name: \Sky Keep\Main\First Room
               sub_areas: {}
               toplevel_alias: null
-            Skyview Room:
+            Skyview Temple Room:
               abstract: false
               allowed_time_of_day: 1
               can_save: false
@@ -6961,7 +6961,7 @@ areas:
               exits: {}
               hint_region: Sky Keep
               locations: {}
-              name: \Sky Keep\Main\Skyview Room
+              name: \Sky Keep\Main\Skyview Temple Room
               sub_areas:
                 Beginning:
                   abstract: false
@@ -6970,16 +6970,16 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Sky Keep\Main\Skyview Room\End: "(Whip & \\Sky Keep\\Main\\Skyview\
+                    \Sky Keep\Main\Skyview Temple Room\End: "(Whip & \\Sky Keep\\Main\\Skyview Temple\
                       \ Room\\Beginning\\Free Rope & Clawshots & \\Sky Keep\\Main\\\
-                      Skyview Room\\Beginning\\Kill Pyrups & Gust Bellows) | \\Sky\
-                      \ Keep\\Main\\Skyview Room\\End\\Lever"
+                      Skyview Temple Room\\Beginning\\Kill Pyrups & Gust Bellows) | \\Sky\
+                      \ Keep\\Main\\Skyview Temple Room\\End\\Lever"
                   hint_region: Sky Keep
                   locations:
                     Free Rope: "\\Beetle | \\Bow"
                     Kill Pyrups: "Bomb Bag | \\Hook Beetle | \\Bow"
                     Left Exit: 'True'
-                  name: \Sky Keep\Main\Skyview Room\Beginning
+                  name: \Sky Keep\Main\Skyview Temple Room\Beginning
                   sub_areas: {}
                   toplevel_alias: null
                 End:
@@ -6989,13 +6989,13 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Sky Keep\Main\Skyview Room\Beginning: \Sky Keep\Main\Skyview
+                    \Sky Keep\Main\Skyview Temple Room\Beginning: \Sky Keep\Main\Skyview Temple
                       Room\End\Lever
                   hint_region: Sky Keep
                   locations:
                     Lever: 'True'
                     Top Exit: 'True'
-                  name: \Sky Keep\Main\Skyview Room\End
+                  name: \Sky Keep\Main\Skyview Temple Room\End
                   sub_areas: {}
                   toplevel_alias: null
               toplevel_alias: null
@@ -7275,9 +7275,9 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Sky Keep\Main\Skyview Room\Beginning: \Sky Keep\Main\First Room\Right
+                \Sky Keep\Main\Skyview Temple Room\Beginning: \Sky Keep\Main\First Room\Right
                   Exit
-                \Sky Keep\Main\LMF Room: \Sky Keep\Main\Skyview Room\End\Top Exit
+                \Sky Keep\Main\LMF Room: \Sky Keep\Main\Skyview Temple Room\End\Top Exit
                 \Sky Keep\Main\Earth Temple Room: \Sky Keep\Main\LMF Room\Top Exit
                 \Sky Keep\Main\Mini Boss Room\From Bottom: \Sky Keep\Main\Fire Sanctuary
                   Room\From Left\Left Exit
@@ -7435,7 +7435,7 @@ areas:
                   hint_region: Sky
                   locations:
                     Beedle's Island Cage Goddess Chest: \Faron\Faron Woods\Deep Woods\Goddess
-                      Cube on top of Skyview
+                      Cube on top of Skyview Temple
                   name: \Sky\North East\Beedle's Island\Cage
                   sub_areas: {}
                   toplevel_alias: null
@@ -7514,7 +7514,7 @@ areas:
                 Crystal outside Lumpy Pumpkin: Night
                 Outside Goddess Chest: \Faron\Faron Woods\Deep Woods\Initial Goddess
                   Cube
-                Goddess Chest on the Roof: "\\Skyview\\Spring\\Goddess Cube in Skyview\
+                Goddess Chest on the Roof: "\\Skyview Temple\\Spring\\Goddess Cube in Skyview Temple\
                   \ Spring & Day"
                 Start Kina's Quest: "\\Sky\\South East\\Lumpy Pumpkin\\Lumpy Pumpkin\
                   \ Building\\Complete Hot Soup Delivery & Day"
@@ -8229,7 +8229,7 @@ areas:
               sub_areas: {}
               toplevel_alias: null
           toplevel_alias: null
-        Skyloft Silent Realm:
+        The Goddess's Silent Realm:
           abstract: false
           allowed_time_of_day: 3
           can_save: false
@@ -8238,7 +8238,7 @@ areas:
           - Entrance
           exits:
             Exit: 'True'
-          hint_region: Skyloft Silent Realm
+          hint_region: The Goddess's Silent Realm
           locations:
             Trial Reward: 'True'
             Relic 1: 'True'
@@ -8251,7 +8251,7 @@ areas:
             Relic 8: 'True'
             Relic 9: 'True'
             Relic 10: 'True'
-          name: \Skyloft\Skyloft Silent Realm
+          name: \Skyloft\The Goddess's Silent Realm
           sub_areas: {}
           toplevel_alias: null
         Skyloft Village:
@@ -8426,20 +8426,20 @@ areas:
               toplevel_alias: null
           toplevel_alias: Beedle
       toplevel_alias: null
-    Skyview:
+    Skyview Temple:
       abstract: true
       allowed_time_of_day: 1
       can_save: false
       can_sleep: false
       entrances: []
       exits: {}
-      hint_region: Skyview
+      hint_region: Skyview Temple
       locations:
-        Skyview 2: Water Dragon's Scale
-        Can Hit High Skyview Switches: "\\Distance Activator | (Bomb Bag & Bomb Throws\
+        Skyview Temple 2: Water Dragon's Scale
+        Can Hit High Skyview Temple Switches: "\\Distance Activator | (Bomb Bag & Bomb Throws\
           \ Trick)"
         Can Cut Tree: "\\Sword | Bomb Bag"
-      name: \Skyview
+      name: \Skyview Temple
       sub_areas:
         Main:
           abstract: false
@@ -8448,9 +8448,9 @@ areas:
           can_sleep: false
           entrances: []
           exits: {}
-          hint_region: Skyview
+          hint_region: Skyview Temple
           locations: {}
-          name: \Skyview\Main
+          name: \Skyview Temple\Main
           sub_areas:
             Entry:
               abstract: false
@@ -8461,11 +8461,11 @@ areas:
               - Main Entrance
               exits:
                 Main Exit: 'True'
-                \Skyview\Main\First Room: \Skyview\Main\Entry\Cut Tree
-              hint_region: Skyview
+                \Skyview Temple\Main\First Room: \Skyview Temple\Main\Entry\Cut Tree
+              hint_region: Skyview Temple
               locations:
-                Cut Tree: \Skyview\Can Cut Tree
-              name: \Skyview\Main\Entry
+                Cut Tree: \Skyview Temple\Can Cut Tree
+              name: \Skyview Temple\Main\Entry
               sub_areas: {}
               toplevel_alias: null
             First Room:
@@ -8475,17 +8475,17 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Skyview\Main\Entry: \Skyview\Main\Entry\Cut Tree
-                \Skyview\Main\One Eye Room: \Skyview\Main\First Room\Switch to One
+                \Skyview Temple\Main\Entry: \Skyview Temple\Main\Entry\Cut Tree
+                \Skyview Temple\Main\One Eye Room: \Skyview Temple\Main\First Room\Switch to One
                   Eye Room
-                \Skyview\Main\First Hub: \Skyview\Main\First Room\Destroy Barricade
-              hint_region: Skyview
+                \Skyview Temple\Main\First Hub: \Skyview Temple\Main\First Room\Destroy Barricade
+              hint_region: Skyview Temple
               locations:
-                \Skyview\Main\Entry\Cut Tree: \Skyview\Can Cut Tree
-                Destroy Barricade: "\\Skyview\\Skyview 2 | Bomb Bag"
-                Switch to One Eye Room: \Skyview\Can Hit High Skyview Switches
+                \Skyview Temple\Main\Entry\Cut Tree: \Skyview Temple\Can Cut Tree
+                Destroy Barricade: "\\Skyview Temple\\Skyview Temple 2 | Bomb Bag"
+                Switch to One Eye Room: \Skyview Temple\Can Hit High Skyview Temple Switches
                 Goddess Wall Trigger: "Ballad of the Goddess & Goddess's Harp"
-              name: \Skyview\Main\First Room
+              name: \Skyview Temple\Main\First Room
               sub_areas: {}
               toplevel_alias: null
             One Eye Room:
@@ -8495,14 +8495,14 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Skyview\Main\First Room: \Skyview\Main\First Room\Switch to One Eye
+                \Skyview Temple\Main\First Room: \Skyview Temple\Main\First Room\Switch to One Eye
                   Room
-                \Skyview\Main\First Hub: \Skyview\Main\One Eye Room\Unlock Door to
+                \Skyview Temple\Main\First Hub: \Skyview Temple\Main\One Eye Room\Unlock Door to
                   First Hub
-              hint_region: Skyview
+              hint_region: Skyview Temple
               locations:
                 Unlock Door to First Hub: \Sword
-              name: \Skyview\Main\One Eye Room
+              name: \Skyview Temple\Main\One Eye Room
               sub_areas: {}
               toplevel_alias: null
             First Hub:
@@ -8512,28 +8512,28 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Skyview\Main\One Eye Room: \Skyview\Main\One Eye Room\Unlock Door
+                \Skyview Temple\Main\One Eye Room: \Skyview Temple\Main\One Eye Room\Unlock Door
                   to First Hub
-                \Skyview\Main\First Room: \Skyview\Main\First Room\Destroy Barricade
-                \Skyview\Main\First Hub\Left Room: \Skyview\Main\First Hub\Switch
+                \Skyview Temple\Main\First Room: \Skyview Temple\Main\First Room\Destroy Barricade
+                \Skyview Temple\Main\First Hub\Left Room: \Skyview Temple\Main\First Hub\Switch
                   to Left Room
-                \Skyview\Main\First Hub\Right Room\Lower Area: \Skyview\Main\First
+                \Skyview Temple\Main\First Hub\Right Room\Lower Area: \Skyview Temple\Main\First
                   Hub\Switch to Right Room
-                \Skyview\Main\First Hub\Right Room\Upper Area: "(\\Skyview\\Main\\\
-                  First Hub\\Left Room\\Raise Water & \\Skyview\\Main\\First Hub\\\
+                \Skyview Temple\Main\First Hub\Right Room\Upper Area: "(\\Skyview Temple\\Main\\\
+                  First Hub\\Left Room\\Raise Water & \\Skyview Temple\\Main\\First Hub\\\
                   Right Room\\After Crawlspace\\Raise Water) | Clawshots"
-                \Skyview\Main\Second Hub: "\\Skyview\\Main\\First Hub\\One Water Raise\
-                  \ & Skyview Small Key"
-              hint_region: Skyview
+                \Skyview Temple\Main\Second Hub: "\\Skyview Temple\\Main\\First Hub\\One Water Raise\
+                  \ & Skyview Temple Small Key"
+              hint_region: Skyview Temple
               locations:
-                \Skyview\Main\First Room\Destroy Barricade: 'True'
-                Switch to Left Room: "\\Can Hit Switch | (\\Skyview\\Main\\First Hub\\\
+                \Skyview Temple\Main\First Room\Destroy Barricade: 'True'
+                Switch to Left Room: "\\Can Hit Switch | (\\Skyview Temple\\Main\\First Hub\\\
                   One Water Raise & Water Dragon's Scale)"
-                Switch to Right Room: \Skyview\Can Hit High Skyview Switches
-                One Water Raise: "\\Skyview\\Main\\First Hub\\Left Room\\Raise Water\
-                  \ | \\Skyview\\Main\\First Hub\\Right Room\\After Crawlspace\\Raise\
+                Switch to Right Room: \Skyview Temple\Can Hit High Skyview Temple Switches
+                One Water Raise: "\\Skyview Temple\\Main\\First Hub\\Left Room\\Raise Water\
+                  \ | \\Skyview Temple\\Main\\First Hub\\Right Room\\After Crawlspace\\Raise\
                   \ Water"
-              name: \Skyview\Main\First Hub
+              name: \Skyview Temple\Main\First Hub
               sub_areas:
                 Left Room:
                   abstract: false
@@ -8542,18 +8542,18 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\First Hub: 'True'
-                  hint_region: Skyview
+                    \Skyview Temple\Main\First Hub: 'True'
+                  hint_region: Skyview Temple
                   locations:
-                    Hit Vines: "\\Skyview\\Can Hit High Skyview Switches | \\Goddess\
+                    Hit Vines: "\\Skyview Temple\\Can Hit High Skyview Temple Switches | \\Goddess\
                       \ Sword | Whip"
-                    Spider Roll: Skyview - Spider Roll Trick
-                    Raise Water: "(\\Skyview\\Main\\First Hub\\Left Room\\Hit Vines\
-                      \ & \\Can Hit Switch) | (\\Skyview\\Main\\First Hub\\Left Room\\\
-                      Spider Roll & \\Skyview\\Can Hit High Skyview Switches)"
-                    Chest on Tree Branch: "\\Skyview\\Main\\First Hub\\Left Room\\\
-                      Hit Vines | \\Skyview\\Main\\First Hub\\Left Room\\Spider Roll"
-                  name: \Skyview\Main\First Hub\Left Room
+                    Spider Roll: Skyview Temple - Spider Roll Trick
+                    Raise Water: "(\\Skyview Temple\\Main\\First Hub\\Left Room\\Hit Vines\
+                      \ & \\Can Hit Switch) | (\\Skyview Temple\\Main\\First Hub\\Left Room\\\
+                      Spider Roll & \\Skyview Temple\\Can Hit High Skyview Temple Switches)"
+                    Chest on Tree Branch: "\\Skyview Temple\\Main\\First Hub\\Left Room\\\
+                      Hit Vines | \\Skyview Temple\\Main\\First Hub\\Left Room\\Spider Roll"
+                  name: \Skyview Temple\Main\First Hub\Left Room
                   sub_areas: {}
                   toplevel_alias: null
                 Right Room:
@@ -8563,9 +8563,9 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits: {}
-                  hint_region: Skyview
+                  hint_region: Skyview Temple
                   locations: {}
-                  name: \Skyview\Main\First Hub\Right Room
+                  name: \Skyview Temple\Main\First Hub\Right Room
                   sub_areas:
                     Lower Area:
                       abstract: false
@@ -8574,13 +8574,13 @@ areas:
                       can_sleep: false
                       entrances: []
                       exits:
-                        \Skyview\Main\First Hub: 'True'
-                        \Skyview\Main\First Hub\Right Room\After Crawlspace: 'True'
-                        \Skyview\Main\First Hub\Right Room\After Crawlspace\With Water: Water
+                        \Skyview Temple\Main\First Hub: 'True'
+                        \Skyview Temple\Main\First Hub\Right Room\After Crawlspace: 'True'
+                        \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\With Water: Water
                           Dragon's Scale
-                      hint_region: Skyview
+                      hint_region: Skyview Temple
                       locations: {}
-                      name: \Skyview\Main\First Hub\Right Room\Lower Area
+                      name: \Skyview Temple\Main\First Hub\Right Room\Lower Area
                       sub_areas: {}
                       toplevel_alias: null
                     After Crawlspace:
@@ -8590,12 +8590,12 @@ areas:
                       can_sleep: false
                       entrances: []
                       exits:
-                        \Skyview\Main\First Hub\Right Room\Lower Area: 'True'
-                      hint_region: Skyview
+                        \Skyview Temple\Main\First Hub\Right Room\Lower Area: 'True'
+                      hint_region: Skyview Temple
                       locations:
-                        Raise Water: \Skyview\Can Hit High Skyview Switches
+                        Raise Water: \Skyview Temple\Can Hit High Skyview Temple Switches
                         Digging Spot in Crawlspace: 'False'
-                      name: \Skyview\Main\First Hub\Right Room\After Crawlspace
+                      name: \Skyview Temple\Main\First Hub\Right Room\After Crawlspace
                       sub_areas:
                         With Water:
                           abstract: false
@@ -8604,12 +8604,12 @@ areas:
                           can_sleep: false
                           entrances: []
                           exits:
-                            \Skyview\Main\First Hub\Right Room\Lower Area: 'True'
-                          hint_region: Skyview
+                            \Skyview Temple\Main\First Hub\Right Room\Lower Area: 'True'
+                          hint_region: Skyview Temple
                           locations:
-                            \Skyview\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace: \Digging
+                            \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace: \Digging
                               Mitts
-                          name: \Skyview\Main\First Hub\Right Room\After Crawlspace\With
+                          name: \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\With
                             Water
                           sub_areas: {}
                           toplevel_alias: null
@@ -8621,12 +8621,12 @@ areas:
                       can_sleep: false
                       entrances: []
                       exits:
-                        \Skyview\Main\First Hub\Right Room\Lower Area: 'True'
-                        \Skyview\Main\First Hub: 'True'
-                      hint_region: Skyview
+                        \Skyview Temple\Main\First Hub\Right Room\Lower Area: 'True'
+                        \Skyview Temple\Main\First Hub: 'True'
+                      hint_region: Skyview Temple
                       locations:
                         Chest behind Two Eyes: \Sword
-                      name: \Skyview\Main\First Hub\Right Room\Upper Area
+                      name: \Skyview Temple\Main\First Hub\Right Room\Upper Area
                       sub_areas: {}
                       toplevel_alias: null
                   toplevel_alias: null
@@ -8638,26 +8638,26 @@ areas:
               can_sleep: false
               entrances: []
               exits:
-                \Skyview\Main\First Hub: Skyview Small Key x 2
-                \Skyview\Main\Second Hub\Miniboss Room: \Skyview\Main\Second Hub\Switch
+                \Skyview Temple\Main\First Hub: Skyview Temple Small Key x 2
+                \Skyview Temple\Main\Second Hub\Miniboss Room: \Skyview Temple\Main\Second Hub\Switch
                   to Miniboss Room
-                \Skyview\Main\Second Hub\Left Rooms: \Skyview\Main\Second Hub\Switch
+                \Skyview Temple\Main\Second Hub\Left Rooms: \Skyview Temple\Main\Second Hub\Switch
                   to Left Room
-                \Skyview\Main\Second Hub\Staldra Room: Skyview Small Key x 2
-                \Skyview\Main\Last Room\Before Rope: \Skyview\Main\Last Room\Before
+                \Skyview Temple\Main\Second Hub\Staldra Room: Skyview Temple Small Key x 2
+                \Skyview Temple\Main\Last Room\Before Rope: \Skyview Temple\Main\Last Room\Before
                   Rope\Unlock Shortcut to Second Hub
-              hint_region: Skyview
+              hint_region: Skyview Temple
               locations:
                 Rupee in Southeast Tunnel: \Beetle
                 Rupee in Southwest Tunnel: \Beetle
                 Rupee in East Tunnel: \Beetle
                 Switch to Miniboss Room: \Distance Activator
-                Switch for Bars: "\\Beetle | (\\Slingshot & Skyview Slingshot Shot\
+                Switch for Bars: "\\Beetle | (\\Slingshot & Skyview Temple Slingshot Shot\
                   \ Trick)"
                 Switch to Left Room: \Beetle
-                Item behind Bars: "\\Skyview\\Main\\Second Hub\\Switch for Bars |\
+                Item behind Bars: "\\Skyview Temple\\Main\\Second Hub\\Switch for Bars |\
                   \ Whip"
-              name: \Skyview\Main\Second Hub
+              name: \Skyview Temple\Main\Second Hub
               sub_areas:
                 Miniboss Room:
                   abstract: false
@@ -8666,11 +8666,11 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Second Hub: 'True'
-                  hint_region: Skyview
+                    \Skyview Temple\Main\Second Hub: 'True'
+                  hint_region: Skyview Temple
                   locations:
-                    Chest after Stalfos Fight: "\\Sword | \\Skyview\\Skyview 2"
-                  name: \Skyview\Main\Second Hub\Miniboss Room
+                    Chest after Stalfos Fight: "\\Sword | \\Skyview Temple\\Skyview Temple 2"
+                  name: \Skyview Temple\Main\Second Hub\Miniboss Room
                   sub_areas: {}
                   toplevel_alias: null
                 Left Rooms:
@@ -8680,11 +8680,11 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Second Hub: "\\Sword & \\Projectile Item"
-                  hint_region: Skyview
+                    \Skyview Temple\Main\Second Hub: "\\Sword & \\Projectile Item"
+                  hint_region: Skyview Temple
                   locations:
                     Chest behind Three Eyes: "\\Beetle & \\Sword"
-                  name: \Skyview\Main\Second Hub\Left Rooms
+                  name: \Skyview Temple\Main\Second Hub\Left Rooms
                   sub_areas: {}
                   toplevel_alias: null
                 Staldra Room:
@@ -8694,13 +8694,13 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Second Hub: Skyview Small Key
-                    \Skyview\Main\Last Room\Near East Entrance: \Skyview\Main\Second
+                    \Skyview Temple\Main\Second Hub: Skyview Temple Small Key
+                    \Skyview Temple\Main\Last Room\Near East Entrance: \Skyview Temple\Main\Second
                       Hub\Staldra Room\Can Defeat Staldra
-                  hint_region: Skyview
+                  hint_region: Skyview Temple
                   locations:
                     Can Defeat Staldra: "\\Sword | Bomb Bag"
-                  name: \Skyview\Main\Second Hub\Staldra Room
+                  name: \Skyview Temple\Main\Second Hub\Staldra Room
                   sub_areas: {}
                   toplevel_alias: null
               toplevel_alias: null
@@ -8711,9 +8711,9 @@ areas:
               can_sleep: false
               entrances: []
               exits: {}
-              hint_region: Skyview
+              hint_region: Skyview Temple
               locations: {}
-              name: \Skyview\Main\Last Room
+              name: \Skyview Temple\Main\Last Room
               sub_areas:
                 Near East Entrance:
                   abstract: false
@@ -8722,14 +8722,14 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Second Hub\Staldra Room: 'True'
-                    \Skyview\Main\Last Room\Before Rope: \Skyview\Main\Last Room\Near
+                    \Skyview Temple\Main\Second Hub\Staldra Room: 'True'
+                    \Skyview Temple\Main\Last Room\Before Rope: \Skyview Temple\Main\Last Room\Near
                       East Entrance\Deal with Hanging Skulltula
-                  hint_region: Skyview
+                  hint_region: Skyview Temple
                   locations:
                     Deal with Hanging Skulltula: "Bomb Bag | \\Goddess Sword | \\\
-                      Beetle | \\Bow | \\Skyview\\Skyview 2"
-                  name: \Skyview\Main\Last Room\Near East Entrance
+                      Beetle | \\Bow | \\Skyview Temple\\Skyview Temple 2"
+                  name: \Skyview Temple\Main\Last Room\Near East Entrance
                   sub_areas: {}
                   toplevel_alias: null
                 Before Rope:
@@ -8739,21 +8739,21 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Last Room\Near East Entrance: \Skyview\Main\Last
+                    \Skyview Temple\Main\Last Room\Near East Entrance: \Skyview Temple\Main\Last
                       Room\Near East Entrance\Deal with Hanging Skulltula
-                    \Skyview\Main\Second Hub: \Skyview\Main\Last Room\Before Rope\Unlock
+                    \Skyview Temple\Main\Second Hub: \Skyview Temple\Main\Last Room\Before Rope\Unlock
                       Shortcut to Second Hub
-                    \Skyview\Main\Last Room\After Rope: \Skyview\Main\Last Room\Before
+                    \Skyview Temple\Main\Last Room\After Rope: \Skyview Temple\Main\Last Room\Before
                       Rope\Deal with Archers
-                  hint_region: Skyview
+                  hint_region: Skyview Temple
                   locations:
-                    \Skyview\Main\Last Room\Near East Entrance\Deal with Hanging Skulltula: "Bomb\
-                      \ Bag | \\Goddess Sword | \\Beetle | \\Bow | \\Skyview\\Skyview\
+                    \Skyview Temple\Main\Last Room\Near East Entrance\Deal with Hanging Skulltula: "Bomb\
+                      \ Bag | \\Goddess Sword | \\Beetle | \\Bow | \\Skyview Temple\\Skyview Temple\
                       \ 2"
-                    Unlock Shortcut to Second Hub: \Skyview\Can Hit High Skyview Switches
+                    Unlock Shortcut to Second Hub: \Skyview Temple\Can Hit High Skyview Temple Switches
                     Deal with Archers: "\\Long Range Skyward Strike | \\Hook Beetle\
                       \ | \\Bow"
-                  name: \Skyview\Main\Last Room\Before Rope
+                  name: \Skyview Temple\Main\Last Room\Before Rope
                   sub_areas: {}
                   toplevel_alias: null
                 After Rope:
@@ -8764,18 +8764,18 @@ areas:
                   entrances:
                   - Boss Door Entrance
                   exits:
-                    \Skyview\Main\Last Room\Before Rope: \Skyview\Main\Last Room\Before
+                    \Skyview Temple\Main\Last Room\Before Rope: \Skyview Temple\Main\Last Room\Before
                       Rope\Deal with Archers
-                    \Skyview\Main\Last Room\Near Boss Key Chest: \Skyview\Main\Last
+                    \Skyview Temple\Main\Last Room\Near Boss Key Chest: \Skyview Temple\Main\Last
                       Room\After Rope\Hit Vines
-                    Boss Door Exit: Skyview Boss Key
-                  hint_region: Skyview
+                    Boss Door Exit: Skyview Temple Boss Key
+                  hint_region: Skyview Temple
                   locations:
                     Chest near Boss Door: 'True'
                     Hit Vines: "\\Long Range Skyward Strike | \\Distance Activator"
-                    \Skyview\Main\Last Room\Before Rope\Deal with Archers: "\\Can\
+                    \Skyview Temple\Main\Last Room\Before Rope\Deal with Archers: "\\Can\
                       \ Defeat Bokoblins | \\Hook Beetle"
-                  name: \Skyview\Main\Last Room\After Rope
+                  name: \Skyview Temple\Main\Last Room\After Rope
                   sub_areas: {}
                   toplevel_alias: null
                 Near Boss Key Chest:
@@ -8785,13 +8785,13 @@ areas:
                   can_sleep: false
                   entrances: []
                   exits:
-                    \Skyview\Main\Last Room\Before Rope: 'True'
-                    \Skyview\Main\Last Room\After Rope: \Skyview\Main\Last Room\After
+                    \Skyview Temple\Main\Last Room\Before Rope: 'True'
+                    \Skyview Temple\Main\Last Room\After Rope: \Skyview Temple\Main\Last Room\After
                       Rope\Hit Vines
-                  hint_region: Skyview
+                  hint_region: Skyview Temple
                   locations:
                     Boss Key Chest: 'True'
-                  name: \Skyview\Main\Last Room\Near Boss Key Chest
+                  name: \Skyview Temple\Main\Last Room\Near Boss Key Chest
                   sub_areas: {}
                   toplevel_alias: null
               toplevel_alias: null
@@ -8805,13 +8805,13 @@ areas:
           - Entrance from Dungeon
           - Entrance from Spring
           exits:
-            Exit to Dungeon: \Skyview\Boss Room\Beat Ghirahim
-            Exit to Spring: \Skyview\Boss Room\Beat Ghirahim
-          hint_region: Skyview
+            Exit to Dungeon: \Skyview Temple\Boss Room\Beat Ghirahim
+            Exit to Spring: \Skyview Temple\Boss Room\Beat Ghirahim
+          hint_region: Skyview Temple
           locations:
             Beat Ghirahim: \Sword
-            Heart Container: \Skyview\Boss Room\Beat Ghirahim
-          name: \Skyview\Boss Room
+            Heart Container: \Skyview Temple\Boss Room\Beat Ghirahim
+          name: \Skyview Temple\Boss Room
           sub_areas: {}
           toplevel_alias: null
         Spring:
@@ -8823,16 +8823,16 @@ areas:
           - Entrance
           exits:
             Exit: 'True'
-          hint_region: Skyview
+          hint_region: Skyview Temple
           locations:
             Rupee on Spring Pillar: \Beetle
             Strike Crest: \Goddess Sword
-            Goddess Cube in Skyview Spring: \Goddess Sword
-            Sacred Water: "\\Bottle & \\Skyview\\Skyview 2"
-          name: \Skyview\Spring
+            Goddess Cube in Skyview Temple Spring: \Goddess Sword
+            Sacred Water: "\\Bottle & \\Skyview Temple\\Skyview Temple 2"
+          name: \Skyview Temple\Spring
           sub_areas: {}
-          toplevel_alias: Skyview Spring
-      toplevel_alias: Skyview Temple
+          toplevel_alias: Skyview Temple Spring
+      toplevel_alias: Skyview Temple Temple
   toplevel_alias: null
 checks:
   \Skyloft\Upper Skyloft\Knight Academy\Fledge's Gift:
@@ -9704,62 +9704,62 @@ checks:
     original item: Semi Rare Treasure
     type: null
     short_name: Lanayru Sand Sea - Pirate Stronghold - Third Chest
-  \Skyview\Main\First Hub\Left Room\Chest on Tree Branch:
-    original item: Skyview Map
+  \Skyview Temple\Main\First Hub\Left Room\Chest on Tree Branch:
+    original item: Skyview Temple Map
     type: null
-    short_name: Skyview - Chest on Tree Branch
-  \Skyview\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace:
-    original item: Skyview Small Key
+    short_name: Skyview Temple - Chest on Tree Branch
+  \Skyview Temple\Main\First Hub\Right Room\After Crawlspace\Digging Spot in Crawlspace:
+    original item: Skyview Temple Small Key
     type: null
-    short_name: Skyview - Digging Spot in Crawlspace
-  \Skyview\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes:
-    original item: 'Skyview Small Key #0'
+    short_name: Skyview Temple - Digging Spot in Crawlspace
+  \Skyview Temple\Main\First Hub\Right Room\Upper Area\Chest behind Two Eyes:
+    original item: 'Skyview Temple Small Key #0'
     type: null
-    short_name: Skyview - Chest behind Two Eyes
-  \Skyview\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight:
+    short_name: Skyview Temple - Chest behind Two Eyes
+  \Skyview Temple\Main\Second Hub\Miniboss Room\Chest after Stalfos Fight:
     original item: Progressive Beetle
     type: null
-    short_name: Skyview - Chest after Stalfos Fight
-  \Skyview\Main\Second Hub\Item behind Bars:
+    short_name: Skyview Temple - Chest after Stalfos Fight
+  \Skyview Temple\Main\Second Hub\Item behind Bars:
     original item: Heart Piece
     type: null
-    short_name: Skyview - Item behind Bars
-  \Skyview\Main\Second Hub\Rupee in Southeast Tunnel:
+    short_name: Skyview Temple - Item behind Bars
+  \Skyview Temple\Main\Second Hub\Rupee in Southeast Tunnel:
     original item: 'Red Rupee #35'
     type: Rupees (No Quick Beetle)
-    short_name: Skyview - Rupee in Southeast Tunnel
-  \Skyview\Main\Second Hub\Rupee in Southwest Tunnel:
+    short_name: Skyview Temple - Rupee in Southeast Tunnel
+  \Skyview Temple\Main\Second Hub\Rupee in Southwest Tunnel:
     original item: 'Red Rupee #36'
     type: Rupees (No Quick Beetle)
-    short_name: Skyview - Rupee in Southwest Tunnel
-  \Skyview\Main\Second Hub\Rupee in East Tunnel:
+    short_name: Skyview Temple - Rupee in Southwest Tunnel
+  \Skyview Temple\Main\Second Hub\Rupee in East Tunnel:
     original item: 'Red Rupee #37'
     type: Rupees (No Quick Beetle)
-    short_name: Skyview - Rupee in East Tunnel
-  \Skyview\Main\Second Hub\Left Rooms\Chest behind Three Eyes:
-    original item: 'Skyview Small Key #1'
+    short_name: Skyview Temple - Rupee in East Tunnel
+  \Skyview Temple\Main\Second Hub\Left Rooms\Chest behind Three Eyes:
+    original item: 'Skyview Temple Small Key #1'
     type: null
-    short_name: Skyview - Chest behind Three Eyes
-  \Skyview\Main\Last Room\After Rope\Chest near Boss Door:
+    short_name: Skyview Temple - Chest behind Three Eyes
+  \Skyview Temple\Main\Last Room\After Rope\Chest near Boss Door:
     original item: Red Rupee
     type: null
-    short_name: Skyview - Chest near Boss Door
-  \Skyview\Main\Last Room\Near Boss Key Chest\Boss Key Chest:
-    original item: Skyview Boss Key
+    short_name: Skyview Temple - Chest near Boss Door
+  \Skyview Temple\Main\Last Room\Near Boss Key Chest\Boss Key Chest:
+    original item: Skyview Temple Boss Key
     type: null
-    short_name: Skyview - Boss Key Chest
-  \Skyview\Boss Room\Heart Container:
+    short_name: Skyview Temple - Boss Key Chest
+  \Skyview Temple\Boss Room\Heart Container:
     original item: Heart Container
     type: null
-    short_name: Skyview - Heart Container
-  \Skyview\Spring\Rupee on Spring Pillar:
+    short_name: Skyview Temple - Heart Container
+  \Skyview Temple\Spring\Rupee on Spring Pillar:
     original item: 'Red Rupee #38'
     type: Rupees (No Quick Beetle)
-    short_name: Skyview - Rupee on Spring Pillar
-  \Skyview\Spring\Strike Crest:
+    short_name: Skyview Temple - Rupee on Spring Pillar
+  \Skyview Temple\Spring\Strike Crest:
     original item: Ruby Tablet
     type: null
-    short_name: Skyview - Strike Crest
+    short_name: Skyview Temple - Strike Crest
   \Earth Temple\Main\First Room\Vent Chest:
     original item: Red Rupee
     type: null
@@ -10060,182 +10060,182 @@ checks:
     original item: Triforce of Courage
     type: null
     short_name: Sky Keep - Sacred Power of Farore
-  \Skyloft\Skyloft Silent Realm\Trial Reward:
+  \Skyloft\The Goddess's Silent Realm\Trial Reward:
     original item: Stone of Trials
     type: null
-    short_name: Skyloft Silent Realm - Trial Reward
-  \Skyloft\Skyloft Silent Realm\Relic 1:
+    short_name: The Goddess's Silent Realm - Trial Reward
+  \Skyloft\The Goddess's Silent Realm\Relic 1:
     original item: 'Dusk Relic #1'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 1
-  \Skyloft\Skyloft Silent Realm\Relic 2:
+    short_name: The Goddess's Silent Realm - Relic 1
+  \Skyloft\The Goddess's Silent Realm\Relic 2:
     original item: 'Dusk Relic #2'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 2
-  \Skyloft\Skyloft Silent Realm\Relic 3:
+    short_name: The Goddess's Silent Realm - Relic 2
+  \Skyloft\The Goddess's Silent Realm\Relic 3:
     original item: 'Dusk Relic #3'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 3
-  \Skyloft\Skyloft Silent Realm\Relic 4:
+    short_name: The Goddess's Silent Realm - Relic 3
+  \Skyloft\The Goddess's Silent Realm\Relic 4:
     original item: 'Dusk Relic #4'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 4
-  \Skyloft\Skyloft Silent Realm\Relic 5:
+    short_name: The Goddess's Silent Realm - Relic 4
+  \Skyloft\The Goddess's Silent Realm\Relic 5:
     original item: 'Dusk Relic #5'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 5
-  \Skyloft\Skyloft Silent Realm\Relic 6:
+    short_name: The Goddess's Silent Realm - Relic 5
+  \Skyloft\The Goddess's Silent Realm\Relic 6:
     original item: 'Dusk Relic #6'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 6
-  \Skyloft\Skyloft Silent Realm\Relic 7:
+    short_name: The Goddess's Silent Realm - Relic 6
+  \Skyloft\The Goddess's Silent Realm\Relic 7:
     original item: 'Dusk Relic #7'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 7
-  \Skyloft\Skyloft Silent Realm\Relic 8:
+    short_name: The Goddess's Silent Realm - Relic 7
+  \Skyloft\The Goddess's Silent Realm\Relic 8:
     original item: 'Dusk Relic #8'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 8
-  \Skyloft\Skyloft Silent Realm\Relic 9:
+    short_name: The Goddess's Silent Realm - Relic 8
+  \Skyloft\The Goddess's Silent Realm\Relic 9:
     original item: 'Dusk Relic #9'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 9
-  \Skyloft\Skyloft Silent Realm\Relic 10:
+    short_name: The Goddess's Silent Realm - Relic 9
+  \Skyloft\The Goddess's Silent Realm\Relic 10:
     original item: 'Dusk Relic #10'
     type: skyloft, silent realm
-    short_name: Skyloft Silent Realm - Relic 10
-  \Faron\Faron Silent Realm\Trial Reward:
+    short_name: The Goddess's Silent Realm - Relic 10
+  \Faron\Farore's Silent Realm\Trial Reward:
     original item: Water Dragon's Scale
     type: null
-    short_name: Faron Silent Realm - Trial Reward
-  \Faron\Faron Silent Realm\Relic 1:
+    short_name: Farore's Silent Realm - Trial Reward
+  \Faron\Farore's Silent Realm\Relic 1:
     original item: 'Dusk Relic #11'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 1
-  \Faron\Faron Silent Realm\Relic 2:
+    short_name: Farore's Silent Realm - Relic 1
+  \Faron\Farore's Silent Realm\Relic 2:
     original item: 'Dusk Relic #12'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 2
-  \Faron\Faron Silent Realm\Relic 3:
+    short_name: Farore's Silent Realm - Relic 2
+  \Faron\Farore's Silent Realm\Relic 3:
     original item: 'Dusk Relic #13'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 3
-  \Faron\Faron Silent Realm\Relic 4:
+    short_name: Farore's Silent Realm - Relic 3
+  \Faron\Farore's Silent Realm\Relic 4:
     original item: 'Dusk Relic #14'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 4
-  \Faron\Faron Silent Realm\Relic 5:
+    short_name: Farore's Silent Realm - Relic 4
+  \Faron\Farore's Silent Realm\Relic 5:
     original item: 'Dusk Relic #15'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 5
-  \Faron\Faron Silent Realm\Relic 6:
+    short_name: Farore's Silent Realm - Relic 5
+  \Faron\Farore's Silent Realm\Relic 6:
     original item: 'Dusk Relic #16'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 6
-  \Faron\Faron Silent Realm\Relic 7:
+    short_name: Farore's Silent Realm - Relic 6
+  \Faron\Farore's Silent Realm\Relic 7:
     original item: 'Dusk Relic #17'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 7
-  \Faron\Faron Silent Realm\Relic 8:
+    short_name: Farore's Silent Realm - Relic 7
+  \Faron\Farore's Silent Realm\Relic 8:
     original item: 'Dusk Relic #18'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 8
-  \Faron\Faron Silent Realm\Relic 9:
+    short_name: Farore's Silent Realm - Relic 8
+  \Faron\Farore's Silent Realm\Relic 9:
     original item: 'Dusk Relic #19'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 9
-  \Faron\Faron Silent Realm\Relic 10:
+    short_name: Farore's Silent Realm - Relic 9
+  \Faron\Farore's Silent Realm\Relic 10:
     original item: 'Dusk Relic #20'
     type: faron, silent realm
-    short_name: Faron Silent Realm - Relic 10
-  \Lanayru\Lanayru Silent Realm\Trial Reward:
+    short_name: Farore's Silent Realm - Relic 10
+  \Lanayru\Nayru's Silent Realm\Trial Reward:
     original item: Clawshots
     type: null
-    short_name: Lanayru Silent Realm - Trial Reward
-  \Lanayru\Lanayru Silent Realm\Relic 1:
+    short_name: Nayru's Silent Realm - Trial Reward
+  \Lanayru\Nayru's Silent Realm\Relic 1:
     original item: 'Dusk Relic #21'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 1
-  \Lanayru\Lanayru Silent Realm\Relic 2:
+    short_name: Nayru's Silent Realm - Relic 1
+  \Lanayru\Nayru's Silent Realm\Relic 2:
     original item: 'Dusk Relic #22'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 2
-  \Lanayru\Lanayru Silent Realm\Relic 3:
+    short_name: Nayru's Silent Realm - Relic 2
+  \Lanayru\Nayru's Silent Realm\Relic 3:
     original item: 'Dusk Relic #23'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 3
-  \Lanayru\Lanayru Silent Realm\Relic 4:
+    short_name: Nayru's Silent Realm - Relic 3
+  \Lanayru\Nayru's Silent Realm\Relic 4:
     original item: 'Dusk Relic #24'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 4
-  \Lanayru\Lanayru Silent Realm\Relic 5:
+    short_name: Nayru's Silent Realm - Relic 4
+  \Lanayru\Nayru's Silent Realm\Relic 5:
     original item: 'Dusk Relic #25'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 5
-  \Lanayru\Lanayru Silent Realm\Relic 6:
+    short_name: Nayru's Silent Realm - Relic 5
+  \Lanayru\Nayru's Silent Realm\Relic 6:
     original item: 'Dusk Relic #26'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 6
-  \Lanayru\Lanayru Silent Realm\Relic 7:
+    short_name: Nayru's Silent Realm - Relic 6
+  \Lanayru\Nayru's Silent Realm\Relic 7:
     original item: 'Dusk Relic #27'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 7
-  \Lanayru\Lanayru Silent Realm\Relic 8:
+    short_name: Nayru's Silent Realm - Relic 7
+  \Lanayru\Nayru's Silent Realm\Relic 8:
     original item: 'Dusk Relic #28'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 8
-  \Lanayru\Lanayru Silent Realm\Relic 9:
+    short_name: Nayru's Silent Realm - Relic 8
+  \Lanayru\Nayru's Silent Realm\Relic 9:
     original item: 'Dusk Relic #29'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 9
-  \Lanayru\Lanayru Silent Realm\Relic 10:
+    short_name: Nayru's Silent Realm - Relic 9
+  \Lanayru\Nayru's Silent Realm\Relic 10:
     original item: 'Dusk Relic #30'
     type: lanayru, silent realm
-    short_name: Lanayru Silent Realm - Relic 10
-  \Eldin\Eldin Silent Realm\Trial Reward:
+    short_name: Nayru's Silent Realm - Relic 10
+  \Eldin\Din's Silent Realm\Trial Reward:
     original item: Fireshield Earrings
     type: null
-    short_name: Eldin Silent Realm - Trial Reward
-  \Eldin\Eldin Silent Realm\Relic 1:
+    short_name: Din's Silent Realm - Trial Reward
+  \Eldin\Din's Silent Realm\Relic 1:
     original item: 'Dusk Relic #31'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 1
-  \Eldin\Eldin Silent Realm\Relic 2:
+    short_name: Din's Silent Realm - Relic 1
+  \Eldin\Din's Silent Realm\Relic 2:
     original item: 'Dusk Relic #32'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 2
-  \Eldin\Eldin Silent Realm\Relic 3:
+    short_name: Din's Silent Realm - Relic 2
+  \Eldin\Din's Silent Realm\Relic 3:
     original item: 'Dusk Relic #33'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 3
-  \Eldin\Eldin Silent Realm\Relic 4:
+    short_name: Din's Silent Realm - Relic 3
+  \Eldin\Din's Silent Realm\Relic 4:
     original item: 'Dusk Relic #34'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 4
-  \Eldin\Eldin Silent Realm\Relic 5:
+    short_name: Din's Silent Realm - Relic 4
+  \Eldin\Din's Silent Realm\Relic 5:
     original item: 'Dusk Relic #35'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 5
-  \Eldin\Eldin Silent Realm\Relic 6:
+    short_name: Din's Silent Realm - Relic 5
+  \Eldin\Din's Silent Realm\Relic 6:
     original item: 'Dusk Relic #36'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 6
-  \Eldin\Eldin Silent Realm\Relic 7:
+    short_name: Din's Silent Realm - Relic 6
+  \Eldin\Din's Silent Realm\Relic 7:
     original item: 'Dusk Relic #37'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 7
-  \Eldin\Eldin Silent Realm\Relic 8:
+    short_name: Din's Silent Realm - Relic 7
+  \Eldin\Din's Silent Realm\Relic 8:
     original item: 'Dusk Relic #38'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 8
-  \Eldin\Eldin Silent Realm\Relic 9:
+    short_name: Din's Silent Realm - Relic 8
+  \Eldin\Din's Silent Realm\Relic 9:
     original item: 'Dusk Relic #39'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 9
-  \Eldin\Eldin Silent Realm\Relic 10:
+    short_name: Din's Silent Realm - Relic 9
+  \Eldin\Din's Silent Realm\Relic 10:
     original item: 'Dusk Relic #40'
     type: eldin, silent realm
-    short_name: Eldin Silent Realm - Relic 10
+    short_name: Din's Silent Realm - Relic 10
 gossip_stones:
   \Skyloft\Central Skyloft\Waterfall Island\Gossip Stone on Waterfall Island: Central
     Skyloft - Gossip Stone on Waterfall Island
@@ -10418,13 +10418,13 @@ exits:
     vanilla: Beedle's Shop - Day Entrance
     stage: F000
     short_name: Skyloft - Exit to Beedle's Shop
-  \Skyloft\Skyloft Silent Realm\Exit:
+  \Skyloft\The Goddess's Silent Realm\Exit:
     type: exit
     vanilla: Skyloft - Trial Gate Entrance
-    short_name: Skyloft Silent Realm - Exit
+    short_name: The Goddess's Silent Realm - Exit
   \Skyloft\Central Skyloft\Trial Gate Exit:
     type: exit
-    vanilla: Skyloft Silent Realm - Entrance
+    vanilla: The Goddess's Silent Realm - Entrance
     short_name: Skyloft - Trial Gate Exit
   \Skyloft\Central Skyloft\Near Temple Entrance\Exit to Sky Keep:
     type: exit
@@ -10843,12 +10843,12 @@ exits:
     short_name: Faron Woods - Shortcut Exit to Floria Waterfall
   \Faron\Faron Woods\Trial Gate Exit:
     type: exit
-    vanilla: Faron Silent Realm - Entrance
+    vanilla: Farore's Silent Realm - Entrance
     short_name: Faron Woods - Trial Gate Exit
-  \Faron\Faron Silent Realm\Exit:
+  \Faron\Farore's Silent Realm\Exit:
     type: exit
     vanilla: Faron Woods - Trial Gate Entrance
-    short_name: Faron Silent Realm - Exit
+    short_name: Farore's Silent Realm - Exit
   \Faron\Faron Woods\Great Tree\Platforms\Lower Exit to Great Tree:
     type: exit
     vanilla: Great Tree - Lower Entrance from Platforms
@@ -10923,11 +10923,11 @@ exits:
     vanilla: Faron Woods - Entrance from Deep Woods
     stage: F101
     short_name: Deep Woods - Exit to Faron Woods
-  \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple:
+  \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple Temple:
     type: exit
-    vanilla: Skyview Temple - Main Entrance
+    vanilla: Skyview Temple Temple - Main Entrance
     stage: F101
-    short_name: Deep Woods - Exit to Skyview Temple
+    short_name: Deep Woods - Exit to Skyview Temple Temple
   \Faron\Lake Floria\Below Rock\Emerged Area\Statue Exit:
     type: exit
     vanilla: Sky - Faron Pillar - Entrance
@@ -10968,26 +10968,26 @@ exits:
     vanilla: Faron Woods - Shortcut Entrance from Floria Waterfall
     stage: F102_1
     short_name: Floria Waterfall - Exit to Faron Woods
-  \Skyview\Main\Entry\Main Exit:
+  \Skyview Temple\Main\Entry\Main Exit:
     type: exit
-    vanilla: Deep Woods - Entrance from Skyview Temple
-    short_name: Skyview Temple - Main Exit
-  \Skyview\Main\Last Room\After Rope\Boss Door Exit:
+    vanilla: Deep Woods - Entrance from Skyview Temple Temple
+    short_name: Skyview Temple Temple - Main Exit
+  \Skyview Temple\Main\Last Room\After Rope\Boss Door Exit:
     type: exit
-    vanilla: Skyview Temple - Boss Room - Entrance from Dungeon
-    short_name: Skyview Temple - Boss Door Exit
-  \Skyview\Boss Room\Exit to Dungeon:
+    vanilla: Skyview Temple Temple - Boss Room - Entrance from Dungeon
+    short_name: Skyview Temple Temple - Boss Door Exit
+  \Skyview Temple\Boss Room\Exit to Dungeon:
     type: exit
-    vanilla: Skyview Temple - Boss Door Entrance
-    short_name: Skyview Temple - Boss Room - Exit to Dungeon
-  \Skyview\Boss Room\Exit to Spring:
+    vanilla: Skyview Temple Temple - Boss Door Entrance
+    short_name: Skyview Temple Temple - Boss Room - Exit to Dungeon
+  \Skyview Temple\Boss Room\Exit to Spring:
     type: exit
-    vanilla: Skyview Temple - Spring - Entrance
-    short_name: Skyview Temple - Boss Room - Exit to Spring
-  \Skyview\Spring\Exit:
+    vanilla: Skyview Temple Temple - Spring - Entrance
+    short_name: Skyview Temple Temple - Boss Room - Exit to Spring
+  \Skyview Temple\Spring\Exit:
     type: exit
-    vanilla: Skyview Temple - Boss Room - Entrance from Spring
-    short_name: Skyview Temple - Spring - Exit
+    vanilla: Skyview Temple Temple - Boss Room - Entrance from Spring
+    short_name: Skyview Temple Temple - Spring - Exit
   \Ancient Cistern\Main\Main Room\Main Exit:
     type: exit
     vanilla: Floria Waterfall - Entrance from Ancient Cistern
@@ -11045,7 +11045,7 @@ exits:
     short_name: Eldin Volcano - Exit to Summit
   \Eldin\Volcano\Ascent\Trial Gate Exit:
     type: exit
-    vanilla: Eldin Silent Realm - Entrance
+    vanilla: Din's Silent Realm - Entrance
     short_name: Eldin Volcano - Trial Gate Exit
   \Eldin\Volcano\Past Slide\Vent Exit near Ascent:
     type: exit
@@ -11074,10 +11074,10 @@ exits:
     vanilla: Eldin Volcano - Thrill Digger Cave Entrance
     stage: F211
     short_name: Thrill Digger Cave - Exit
-  \Eldin\Eldin Silent Realm\Exit:
+  \Eldin\Din's Silent Realm\Exit:
     type: exit
     vanilla: Eldin Volcano - Trial Gate Entrance
-    short_name: Eldin Silent Realm - Exit
+    short_name: Din's Silent Realm - Exit
   \Eldin\Volcano Summit\Exit to Eldin Volcano:
     type: exit
     vanilla: Eldin Volcano - Entrance from Summit
@@ -11231,12 +11231,12 @@ exits:
     short_name: Lanayru Desert - Exit to Caves
   \Lanayru\Desert\North Part\Trial Gate Exit:
     type: exit
-    vanilla: Lanayru Silent Realm - Entrance
+    vanilla: Nayru's Silent Realm - Entrance
     short_name: Lanayru Desert - Trial Gate Exit
-  \Lanayru\Lanayru Silent Realm\Exit:
+  \Lanayru\Nayru's Silent Realm\Exit:
     type: exit
     vanilla: Lanayru Desert - Trial Gate Entrance
-    short_name: Lanayru Silent Realm - Exit
+    short_name: Nayru's Silent Realm - Exit
   \Lanayru\Desert\North Part\Lightning Node\Present\Exit:
     type: exit
     vanilla: Lanayru Desert - Lightning Node Entrance
@@ -11658,12 +11658,12 @@ entrances:
     stage: F000
     allowed_time_of_day: 3
     short_name: Skyloft - Entrance from Beedle's Shop
-  \Skyloft\Skyloft Silent Realm\Entrance:
+  \Skyloft\The Goddess's Silent Realm\Entrance:
     type: entrance
     province: The Sky
     can-start-at: false
     allowed_time_of_day: 3
-    short_name: Skyloft Silent Realm - Entrance
+    short_name: The Goddess's Silent Realm - Entrance
   \Skyloft\Central Skyloft\Trial Gate Entrance:
     type: entrance
     province: The Sky
@@ -12032,12 +12032,12 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Faron Woods - Trial Gate Entrance
-  \Faron\Faron Silent Realm\Entrance:
+  \Faron\Farore's Silent Realm\Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Faron Silent Realm - Entrance
+    short_name: Farore's Silent Realm - Entrance
   \Faron\Faron Woods\Great Tree\Platforms\Lower Entrance from Great Tree:
     type: entrance
     province: Faron Province
@@ -12136,13 +12136,13 @@ entrances:
     stage: F101
     allowed_time_of_day: 1
     short_name: Deep Woods - Entrance from Faron Woods
-  \Faron\Faron Woods\Deep Woods\Entrance from Skyview Temple:
+  \Faron\Faron Woods\Deep Woods\Entrance from Skyview Temple Temple:
     type: entrance
     province: Faron Province
     can-start-at: false
     stage: F101
     allowed_time_of_day: 1
-    short_name: Deep Woods - Entrance from Skyview Temple
+    short_name: Deep Woods - Entrance from Skyview Temple Temple
   \Faron\Lake Floria\Below Rock\Emerged Area\Statue Entrance:
     type: entrance
     subtype: bird-statue-entrance
@@ -12202,37 +12202,37 @@ entrances:
     stage: F102_1
     allowed_time_of_day: 1
     short_name: Floria Waterfall - Entrance from Faron Woods
-  \Skyview\Main\Entry\Main Entrance:
+  \Skyview Temple\Main\Entry\Main Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     stage: D100
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Main Entrance
-  \Skyview\Main\Last Room\After Rope\Boss Door Entrance:
+    short_name: Skyview Temple Temple - Main Entrance
+  \Skyview Temple\Main\Last Room\After Rope\Boss Door Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Boss Door Entrance
-  \Skyview\Boss Room\Entrance from Dungeon:
+    short_name: Skyview Temple Temple - Boss Door Entrance
+  \Skyview Temple\Boss Room\Entrance from Dungeon:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Boss Room - Entrance from Dungeon
-  \Skyview\Boss Room\Entrance from Spring:
+    short_name: Skyview Temple Temple - Boss Room - Entrance from Dungeon
+  \Skyview Temple\Boss Room\Entrance from Spring:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Boss Room - Entrance from Spring
-  \Skyview\Spring\Entrance:
+    short_name: Skyview Temple Temple - Boss Room - Entrance from Spring
+  \Skyview Temple\Spring\Entrance:
     type: entrance
     province: Faron Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Skyview Temple - Spring - Entrance
+    short_name: Skyview Temple Temple - Spring - Entrance
   \Ancient Cistern\Main\Main Room\Main Entrance:
     type: entrance
     province: Faron Province
@@ -12365,12 +12365,12 @@ entrances:
     stage: F211
     allowed_time_of_day: 1
     short_name: Thrill Digger Cave - Entrance
-  \Eldin\Eldin Silent Realm\Entrance:
+  \Eldin\Din's Silent Realm\Entrance:
     type: entrance
     province: Eldin Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Eldin Silent Realm - Entrance
+    short_name: Din's Silent Realm - Entrance
   \Eldin\Volcano Summit\Entrance from Outside Fire Sanctuary:
     type: entrance
     province: Eldin Province
@@ -12618,12 +12618,12 @@ entrances:
     can-start-at: false
     allowed_time_of_day: 1
     short_name: Lanayru Desert - Trial Gate Entrance
-  \Lanayru\Lanayru Silent Realm\Entrance:
+  \Lanayru\Nayru's Silent Realm\Entrance:
     type: entrance
     province: Lanayru Province
     can-start-at: false
     allowed_time_of_day: 1
-    short_name: Lanayru Silent Realm - Entrance
+    short_name: Nayru's Silent Realm - Entrance
   \Lanayru\Desert\North Part\Lightning Node\Present\Entrance:
     type: entrance
     province: Lanayru Province
@@ -12966,22 +12966,22 @@ entrances:
     short_name: Sky Keep - First Room - Bottom Entrance
 linked_entrances:
   silent_realms:
-    Skyloft Silent Realm:
+    The Goddess's Silent Realm:
       exit_from_outside: \Skyloft\Central Skyloft\Trial Gate Exit
-      exit_from_inside: \Skyloft\Skyloft Silent Realm\Exit
-    Faron Silent Realm:
+      exit_from_inside: \Skyloft\The Goddess's Silent Realm\Exit
+    Farore's Silent Realm:
       exit_from_outside: \Faron\Faron Woods\Trial Gate Exit
-      exit_from_inside: \Faron\Faron Silent Realm\Exit
-    Lanayru Silent Realm:
+      exit_from_inside: \Faron\Farore's Silent Realm\Exit
+    Nayru's Silent Realm:
       exit_from_outside: \Lanayru\Desert\North Part\Trial Gate Exit
-      exit_from_inside: \Lanayru\Lanayru Silent Realm\Exit
-    Eldin Silent Realm:
+      exit_from_inside: \Lanayru\Nayru's Silent Realm\Exit
+    Din's Silent Realm:
       exit_from_outside: \Eldin\Volcano\Ascent\Trial Gate Exit
-      exit_from_inside: \Eldin\Eldin Silent Realm\Exit
+      exit_from_inside: \Eldin\Din's Silent Realm\Exit
   dungeons:
-    Skyview:
-      exit_from_outside: \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple
-      exit_from_inside: \Skyview\Main\Entry\Main Exit
+    Skyview Temple:
+      exit_from_outside: \Faron\Faron Woods\Deep Woods\Exit to Skyview Temple Temple
+      exit_from_inside: \Skyview Temple\Main\Entry\Main Exit
     Earth Temple:
       exit_from_outside: \Eldin\Volcano\Near Temple Entrance\Exit to Earth Temple
       exit_from_inside: \Earth Temple\Main\First Room\Main Exit
@@ -13005,7 +13005,7 @@ linked_entrances:
         Keep
       exit_from_inside: \Sky Keep\Main\First Room\Bottom Exit
 dungeon_completion_requirements:
-  Skyview: \Skyview\Spring\Strike Crest
+  Skyview Temple: \Skyview Temple\Spring\Strike Crest
   Earth Temple: \Earth Temple\Spring\Strike Crest
   Lanayru Mining Facility: \Lanayru Mining Facility\Hall of Ancient Robots\End\Exit
     Hall of Ancient Robots

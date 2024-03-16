@@ -644,6 +644,8 @@ export function parseLogic(raw: RawLogic): Logic {
             }
         }
 
+        // console.log(checks)
+
         if (rawArea.locations) {
             for (const [
                 location,
@@ -660,9 +662,7 @@ export function parseLogic(raw: RawLogic): Logic {
                 if (check) {
                     if (isPrimaryLocation) {
                         const region = getHintRegion(locationId);
-                        if (check.type === 'tr_cube') {
-                            check.name = `${region} - ${check.name}`;
-                        }
+                        check.name = `${region} - ${check.name}`;
                         check.area = region;
                         // areaByLocation[locName] = area.name;
                         (checksByHintRegion[region] ??= []).push(locationId);
@@ -755,13 +755,15 @@ export function parseLogic(raw: RawLogic): Logic {
     }
 
     // Ensure we discovered all checks in our logical requirements
-    if (Object.values(checks).some((c) => c.area === checkAreaPlaceholder)) {
+    if (Object.values(checks).some((c) => c.area === checkAreaPlaceholder )) {
         throw new Error("could not discover check area");
     }
 
     const vanillaConnections: AreaGraph['vanillaConnections'] = {};
     for (const [exitId, exitDef] of Object.entries(raw.exits)) {
         if (exitDef.vanilla) {
+            console.log(exitId)
+            console.log(exitDef.vanilla)
             vanillaConnections[exitId] =
                 entrancesByShortName[exitDef.vanilla].id;
         }

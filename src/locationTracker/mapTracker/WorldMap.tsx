@@ -118,6 +118,7 @@ const WorldMap = (props: WorldMapProps) => {
                         <Row style={{ width: imgWidth, height: containerHeight * 0.35, overflowY: 'scroll', overflowX: 'visible' }}>
                             <LocationGroup
                                 locations={selectedArea.checks}
+                                area={selectedArea.name}
                             />
                         </Row>
                     </Col>

@@ -29,16 +29,16 @@
         "needs": "Can Access Deep Woods & Goddess Sword",
         "type": "sky, goddess, faron goddess"
     },
-    "Goddess Cube on top of Skyview": {
-        "displayName": "Goddess Cube on top of Skyview",
+    "Goddess Cube on top of Skyview Temple": {
+        "displayName": "Goddess Cube on top of Skyview Temple",
         "area": "Faron Woods",
         "needs": "Can Access Deep Woods & Clawshots & Goddess Sword",
         "type": "sky, goddess, faron goddess"
     },
-    "Goddess Cube in Skyview Spring": {
-        "displayName": "Goddess Cube in Skyview Spring",
-        "area": "Skyview",
-        "needs": "Can Beat Skyview & Goddess Sword",
+    "Goddess Cube in Skyview Temple Spring": {
+        "displayName": "Goddess Cube in Skyview Temple Spring",
+        "area": "Skyview Temple",
+        "needs": "Can Beat Skyview Temple & Goddess Sword",
         "type": "sky, goddess, faron goddess, dungeon"
     },
     "Goddess Cube in Lake Floria": {

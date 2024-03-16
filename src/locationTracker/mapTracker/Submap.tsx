@@ -65,6 +65,7 @@ const images: Record<string, string> = {
 };
 
 function getExit(logic: Logic, marker: EntranceMarkerParams) {
+    console.log(marker.entryName)
     const exitId = logic.areaGraph.linkedEntrancePools[marker.exitPool][marker.entryName].exits[0];
     return { exitId, exitName: logic.areaGraph.exits[exitId].short_name };
 }

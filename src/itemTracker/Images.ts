@@ -228,7 +228,7 @@ const images: Images = {
         fourKeyPiece,
         fiveKeyPiece,
     ],
-    'Skyview Boss Key': [
+    'Skyview Temple Boss Key': [
         noSVBK,
         svBK,
     ],

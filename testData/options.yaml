@@ -356,7 +356,7 @@
     - Anywhere
   default: Own Dungeon - Restricted
   help: "Determines the placement of small keys.
-        **Vanilla**: keys will be in their vanilla locations (The Skyview Digging Spot will not contain a key).
+        **Vanilla**: keys will be in their vanilla locations (The Skyview Temple Digging Spot will not contain a key).
         **Restricted**: keys will be within their own dungeons.
         **Lanayru Caves Key only**: shuffles the Lanayru Caves Small Key
             (all other keys are shuffled within their own dungeon).
@@ -429,9 +429,9 @@
     - Cactus Bomb Whip
     - Skipper's Retreat Fast Clawshots
     - Pirate Stronghold - Beetle Pillar Checks
-    ## Skyview
-    - Skyview - Spider Roll
-    - Skyview Slingshot Shot
+    ## Skyview Temple
+    - Skyview Temple - Spider Roll
+    - Skyview Temple Slingshot Shot
     ## Earth Temple
     - Earth Temple - Keese Yeet
     - Earth Temple - Slope Stuttersprint
@@ -870,8 +870,8 @@
     - Triforce of Wisdom
     - Water Dragon's Scale
     - Whip
-    - Skyview Small Key
-    - Skyview Small Key
+    - Skyview Temple Small Key
+    - Skyview Temple Small Key
     - Lanayru Mining Facility Small Key
     - Ancient Cistern Small Key
     - Ancient Cistern Small Key
@@ -882,14 +882,14 @@
     - Fire Sanctuary Small Key
     - Sky Keep Small Key
     - Lanayru Caves Small Key
-    - Skyview Map
+    - Skyview Temple Map
     - Earth Temple Map
     - Lanayru Mining Facility Map
     - Ancient Cistern Map
     - Sandship Map
     - Fire Sanctuary Map
     - Sky Keep Map
-    - Skyview Boss Key
+    - Skyview Temple Boss Key
     - Earth Temple Boss Key
     - Lanayru Mining Facility Boss Key
     - Ancient Cistern Boss Key
@@ -898,7 +898,7 @@
   default: [
     # Sailcloth,
     Progressive Pouch,
-    Skyview Map,
+    Skyview Temple Map,
     Earth Temple Map,
     Lanayru Mining Facility Map,
     Ancient Cistern Map,

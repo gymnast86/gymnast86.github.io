@@ -124,10 +124,7 @@ const defaultUpstream: RemoteReference = {
 };
 
 const wellKnownRemotes = [
-    'Latest',
-    'ssrando/main',
-    'robojumper/logic-v2.1.1',
-    'gymnast86/hd-logic',
+    'gymnast86/hd-logic-updated-names'
 ];
 
 /**

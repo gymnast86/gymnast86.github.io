@@ -47,7 +47,7 @@ export default function ExtraLocationTracker({
                                 (location) =>
                                     location && (
                                         <Col key={location}>
-                                            <Location id={location} />
+                                            <Location id={location} area={area.name} />
                                         </Col>
                                     ),
                             )}

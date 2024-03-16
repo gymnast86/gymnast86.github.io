@@ -52,6 +52,7 @@ export function NewLocationTracker({ containerHeight, activeArea, setActiveArea 
                 >
                     <LocationGroup
                         locations={selectedArea.checks}
+                        area={selectedArea.name}
                     />
                 </Row>
             )}
