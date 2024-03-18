@@ -124,7 +124,7 @@ const defaultUpstream: RemoteReference = {
 };
 
 const wellKnownRemotes = [
-    'gymnast86/hd-logic-updated-names'
+    'gymnast86/hd-logic'
 ];
 
 /**

@@ -1,18 +1,18 @@
 [
     [
-        "\\The Sky\\Bamboo Island\\Goddess Chest",
+        "\\The Sky\\North East\\Bamboo Island\\Goddess Chest behind Entrance",
         "\\Eldin\\Volcano\\Near Temple Entrance\\Goddess Cube West of Earth Temple Entrance"
     ],
     [
-        "\\The Sky\\Beedle's Island\\Top\\Top Goddess Chest",
+        "\\The Sky\\North East\\Beedle's Island\\Top\\Top Goddess Chest",
         "\\Lanayru\\Temple of Time\\Near Goddess Cube\\Goddess Cube at Ride near Temple of Time"
     ],
     [
-        "\\The Sky\\Beedle's Island\\Cage\\Cage Goddess Chest",
+        "\\The Sky\\North East\\Beedle's Island\\Cage\\Goddess Chest in Cage",
         "\\Faron\\Faron Woods\\Deep Woods\\Goddess Cube on top of Skyview Temple"
     ],
     [
-        "\\The Sky\\North East\\Island near Bamboo Island\\Goddess Chest",
+        "\\The Sky\\North East\\Island near Bamboo Island\\Top Goddess Chest",
         "\\Eldin\\Volcano\\East\\Goddess Cube near Mogma Turf Entrance"
     ],
     [
@@ -24,11 +24,11 @@
         "\\Lanayru\\Mine\\Entry\\Goddess Cube at Lanayru Mine Entrance"
     ],
     [
-        "\\The Sky\\North East\\Northeast Island\\Cage Goddess Chest",
+        "\\The Sky\\North East\\Northeast Island\\Goddess Chest in Cage",
         "\\Eldin\\Volcano\\Near Temple Entrance\\Goddess Cube East of Earth Temple Entrance"
     ],
     [
-        "\\The Sky\\South East\\Lumpy Pumpkin\\Outside Goddess Chest",
+        "\\The Sky\\South East\\Lumpy Pumpkin\\Goddess Chest near Gossip Stone",
         "\\Faron\\Faron Woods\\Deep Woods\\Initial Goddess Cube"
     ],
     [
@@ -48,7 +48,7 @@
         "\\Faron\\Faron Woods\\Clawshot Target Branch\\Goddess Cube on East Great Tree with Clawshots Target"
     ],
     [
-        "\\The Sky\\South West\\Fun Fun Island\\Goddess Chest",
+        "\\The Sky\\South West\\Fun Fun Island\\Goddess Chest below Island",
         "\\Faron\\Floria Waterfall\\Goddess Cube in Floria Waterfall"
     ],
     [
@@ -60,31 +60,31 @@
         "\\Lanayru\\Desert\\Near Caged Robot\\Goddess Cube near Caged Robot"
     ],
     [
-        "\\The Sky\\South West\\Triple Island\\Cage Goddess Chest",
+        "\\The Sky\\South West\\Triple Island\\Goddess Chest in Cage",
         "\\Lanayru\\Lanayru Sand Sea\\Skipper's Retreat\\Past Rock\\Goddess Cube in Skipper's Retreat"
     ],
     [
-        "\\The Sky\\The Thunderhead\\Isle of Songs\\Lower Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\Isle of Songs\\Lower Goddess Chest",
         "\\Eldin\\Mogma Turf\\Pre Vent\\Goddess Cube in Mogma Turf"
     ],
     [
-        "\\The Sky\\The Thunderhead\\Isle of Songs\\Top Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\Isle of Songs\\Top Goddess Chest",
         "\\Eldin\\Volcano Summit\\Outside Fire Sanctuary\\Goddess Cube near Fire Sanctuary Entrance"
     ],
     [
-        "\\The Sky\\Thunderhead East Island\\Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\East Island\\Goddess Chest on East Island",
         "\\Faron\\Faron Woods\\Rope Branch\\Goddess Cube on East Great Tree with Rope"
     ],
     [
-        "\\The Sky\\Mogma Mitts Island\\First Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\Mogma Mitts Island\\Mogma Mitts Island First Goddess Chest",
         "\\Eldin\\Volcano Summit\\Goddess Cube inside Volcano Summit"
     ],
     [
-        "\\The Sky\\Mogma Mitts Island\\Second Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\Mogma Mitts Island\\Mogma Mitts Island Second Goddess Chest",
         "\\Lanayru\\Gorge\\Beyond Bridge\\Goddess Cube in Lanayru Gorge"
     ],
     [
-        "\\The Sky\\Bug Heaven\\Goddess Chest",
+        "\\The Sky\\Inside the Thunderhead\\Bug Heaven\\Goddess Chest",
         "\\Eldin\\Volcano Summit\\Waterfall\\Goddess Cube in Summit Waterfall"
     ],
     [
@@ -92,19 +92,19 @@
         "\\Lanayru\\Lanayru Sand Sea\\Ancient Harbour\\Goddess Cube in Ancient Harbour"
     ],
     [
-        "\\Skyloft\\Central Skyloft\\Waterfall Island\\Waterfall Goddess Chest",
+        "\\Skyloft\\Central Skyloft\\Waterfall Island\\Goddess Chest on Waterfall Island",
         "\\Lanayru\\Lanayru Sand Sea\\Pirate Stronghold\\Inside the Shark Head\\Goddess Cube in Pirate Stronghold"
     ],
     [
-        "\\Skyloft\\Central Skyloft\\Waterfall Island\\Floating Island Goddess Chest",
+        "\\Skyloft\\Central Skyloft\\Waterfall Island\\Goddess Chest on Island near Waterfall",
         "\\Faron\\Lake Floria\\Below Rock\\Emerged Area\\Goddess Cube in Lake Floria"
     ],
     [
-        "\\Skyloft\\Central Skyloft\\West Cliff Goddess Chest",
+        "\\Skyloft\\Central Skyloft\\Goddess Chest on West Cliff Island",
         "\\Faron\\Faron Woods\\West Branch\\Goddess Cube on West Great Tree near Exit"
     ],
     [
-        "\\Skyloft\\Central Skyloft\\Shed Goddess Chest",
+        "\\Skyloft\\Central Skyloft\\Goddess Chest in Shed",
         "\\Eldin\\Volcano\\Sand Slide\\Goddess Cube on Sand Slide"
     ]
 ]
