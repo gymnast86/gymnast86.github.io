@@ -1085,7 +1085,7 @@ function getCheckType(
         return 'trial_treasure';
     } else if (checkType.includes('Loose Crystals')) {
         return 'loose_crystal';
-    } else if (checkType.includes('Beedle') && checkType.includes('Shop Purchases')) {
+    } else if (checkType.includes('Beedle') && checkType.includes('Airshop')) {
         return 'beedle_shop';
     } else if (checkType.includes('Gear Shop Purchases')) {
         return 'gear_shop';
@@ -1097,6 +1097,8 @@ function getCheckType(
         return 'closet'
     } else if (checkType.includes('Stamina Fruits')) {
         return 'stamina_fruit'
+    } else if (checkType.includes('Goddess Chest')) {
+        return 'goddess'
     } else if (
         checkType.includes('Tadtones') &&
         !checkName.includes('Water Dragon\'s Reward')

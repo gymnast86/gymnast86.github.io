@@ -68,6 +68,7 @@ const optionCategorization_ = {
         'gratitude_crystal_shuffle',
         'stamina_fruit_shuffle',
         'goddess_chest_shuffle',
+        'shopsanity',
         'small-key-mode',
         'boss-key-mode',
         'empty-unrequired-dungeons',

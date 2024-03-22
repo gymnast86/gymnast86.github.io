@@ -533,6 +533,7 @@ const isCheckBannedSelector = createSelector(
         settingSelector('gratitude_crystal_shuffle'),
         settingSelector('stamina_fruit_shuffle'),
         settingSelector('goddess_chest_shuffle'),
+        settingSelector('shopsanity'),
     ],
     (
         logic,
@@ -545,6 +546,7 @@ const isCheckBannedSelector = createSelector(
         gratitudeCrystalShuffle,
         staminaFruitShuffle,
         goddessChestShuffle,
+        shopsanity,
     ) => {
         const bannedChecks = new Set(bannedLocations);
         const splitHintRegion = (
@@ -584,9 +586,9 @@ const isCheckBannedSelector = createSelector(
             (undergroundRupeesanity !== true && check.type === 'underground_rupee') ||
             (hiddenItemShuffle !== true && check.type === 'hidden_item') ||
             (npcClosetShuffle !== true && check.type === 'closet') ||
-            // I dunno why check type doesn't work here...
-            (goddessChestShuffle !== true && (check.type.includes('Goddess Chests') || check.name.includes('Goddess Chest'))) ||
-            (staminaFruitShuffle !== true && check.type === 'stamina_fruit');
+            (goddessChestShuffle !== true && check.type === 'goddess') ||
+            (staminaFruitShuffle !== true && check.type === 'stamina_fruit') ||
+            (shopsanity !== true && check.type === 'beedle_shop');
     },
 );
 

@@ -52,7 +52,7 @@
             "on": true
         }
     },
-    "beedle_shuffle": {
+    "beedle_shop_shuffle": {
         "name": "shopsanity",
         "options": {
             "vanilla": false,
