@@ -25,8 +25,8 @@
     "npc_closet_shuffle": {
         "name": "npc_closet_shuffle",
         "options": {
-            "off": false,
-            "on": true
+            "vanilla": false,
+            "randomized": true
         }
     },
     "hidden_item_shuffle": {
@@ -43,6 +43,13 @@
             "beginner": "Beginner",
             "intermediate": "Intermediate",
             "advanced": "Advanced"
+        }
+    },
+    "underground_rupee_shuffle": {
+        "name": "underground_rupeesanity",
+        "options": {
+            "off": false,
+            "on": true
         }
     },
     "beedle_shuffle": {

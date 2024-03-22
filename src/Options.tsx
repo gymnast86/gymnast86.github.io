@@ -67,6 +67,7 @@ const optionCategorization_ = {
         'npc_closet_shuffle',
         'gratitude_crystal_shuffle',
         'stamina_fruit_shuffle',
+        'goddess_chest_shuffle',
         'small-key-mode',
         'boss-key-mode',
         'empty-unrequired-dungeons',
@@ -124,7 +125,7 @@ const defaultUpstream: RemoteReference = {
 };
 
 const wellKnownRemotes = [
-    'gymnast86/hd-logic-updated-names'
+    'gymnast86/hd-logic'
 ];
 
 /**

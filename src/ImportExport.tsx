@@ -127,37 +127,9 @@ export function ImportYamlButton({ setLogicBranch }: { setLogicBranch: (branch: 
                 }
             }
         });
-        let excludedLocs: Array<string> = [];
-        if (settings.goddess_chest_shuffle === "off") {
-            // default excluded locations has all goddess chests. kinda hacky way to do it but w/e
-            excludedLocs = settingsToLoad["excluded-locations"] as Array<string>;
-        }
-        _.forEach(settings.excluded_locations, (loc) => {
-            let newLoc = loc;
-            // lots of hacky stuff for problematic old names -- definitely missing some still but this is a fine start
-            newLoc = newLoc.replace('Skyview Temple - ','Skyview - ');
-            newLoc = newLoc.replace('The Sky - ','Sky - ');
-            newLoc = newLoc.replace('The Thunderhead - ','Thunderhead - ');
-            newLoc = newLoc.replace('Isle of Songs - ','Thunderhead - Isle of Songs - ');
-            newLoc = newLoc.replace('Lumpy Pumpkin - ','Sky - Lumpy Pumpkin - ');
-            newLoc = newLoc.replace('Lumpy Pumpkin - Kina\'s Crystals', 'Kina\'s Crystals');
-            newLoc = newLoc.replace('Knight Academy - ','Upper Skyloft - ');
-            newLoc = newLoc.replace('Sparring Hall - Chest', 'Upper Skyloft - Sparring Hall Chest');
-            newLoc = newLoc.replace('Bazaar - ','Central Skyloft - ');
-            newLoc = newLoc.replace('Bird\'s Nest', 'Bird Nest');
-            newLoc = newLoc.replace('Batreaux - ','Batreaux\'s House - ');
-            newLoc = newLoc.replace('Collect all Tears Reward','Trial Reward');
-            newLoc = newLoc.replace('Bug Heaven - Minigame -- ','Thunderhead - Bug Heaven -- ');
-            newLoc = newLoc.replace('Shipyard - ', 'Lanayru Sand Sea - ');
-            newLoc = newLoc.replace('Fun Fun Island - Minigame -- ','Sky - Fun Fun Island Minigame -- ');
-            newLoc = newLoc.replace('The Goddess\'s Silent Realm','Skyloft Silent Realm');
-            newLoc = newLoc.replace('Farore\'s Silent Realm','Faron Silent Realm');
-            newLoc = newLoc.replace('Din\'s Silent Realm','Eldin Silent Realm');
-            newLoc = newLoc.replace('Nayru\'s Silent Realm','Lanayru Silent Realm');
-            excludedLocs.push(newLoc);
-        })
+        const excludedLocs: Array<string> = settings.excluded_locations as string[];
         if (settings.npc_closet_shuffle === "vanilla") {
-            excludedLocs.push('Upper Skyloft - In Zelda\'s Closet');
+            excludedLocs.push('Upper Skyloft - Knight Academy - In Zelda\'s Closet');
         }
         const startingItems = settings.starting_inventory;
         settingsToLoad["excluded-locations"] = excludedLocs;

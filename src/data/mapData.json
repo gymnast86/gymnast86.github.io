@@ -13,8 +13,13 @@
         "markers": [
             {
                 "region": "Upper Skyloft",
-                "markerX": 38,
+                "markerX": 43,
                 "markerY": 35
+            },
+            {
+                "region": "Knight Academy",
+                "markerX": 32,
+                "markerY": 38
             },
             {
                 "region": "Central Skyloft",
@@ -32,7 +37,7 @@
                 "markerY": 85
             },
             {
-                "region": "Beedle's Shop",
+                "region": "Beedle's Airshop",
                 "markerX": 80,
                 "markerY": 53
             }
@@ -80,6 +85,11 @@
                 "markerY": 77
             },
             {
+                "region": "Inside the Great Tree",
+                "markerX": 53.5,
+                "markerY": 36
+            },
+            {
                 "region": "Flooded Faron Woods",
                 "markerX": 80,
                 "markerY": 31
@@ -101,7 +111,7 @@
             {
                 "exitPool": "silent_realms",
                 "entryName": "Farore's Silent Realm",
-                "markerX": 58,
+                "markerX": 60,
                 "markerY": 40
             }
         ]
@@ -194,7 +204,12 @@
             },
             {
                 "region": "Lanayru Sand Sea",
-                "markerX": 36,
+                "markerX": 30,
+                "markerY": 60
+            },
+            {
+                "region": "Ancient Harbour",
+                "markerX": 40,
                 "markerY": 50
             },
             {
@@ -225,7 +240,7 @@
         ]
     },
     "thunderhead": {
-        "region": "The Thunderhead",
+        "region": "Inside the Thunderhead",
         "markerX": 16,
         "markerY": 11
     },

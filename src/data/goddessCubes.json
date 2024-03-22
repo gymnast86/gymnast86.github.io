@@ -35,8 +35,8 @@
         "needs": "Can Access Deep Woods & Clawshots & Goddess Sword",
         "type": "sky, goddess, faron goddess"
     },
-    "Goddess Cube in Skyview Temple Spring": {
-        "displayName": "Goddess Cube in Skyview Temple Spring",
+    "Goddess Cube in Skyview Spring": {
+        "displayName": "Goddess Cube in Skyview Spring",
         "area": "Skyview Temple",
         "needs": "Can Beat Skyview Temple & Goddess Sword",
         "type": "sky, goddess, faron goddess, dungeon"
