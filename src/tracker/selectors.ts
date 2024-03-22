@@ -532,6 +532,8 @@ const isCheckBannedSelector = createSelector(
         settingSelector('npc_closet_shuffle'),
         settingSelector('gratitude_crystal_shuffle'),
         settingSelector('stamina_fruit_shuffle'),
+        settingSelector('goddess_chest_shuffle'),
+        settingSelector('shopsanity'),
     ],
     (
         logic,
@@ -543,18 +545,24 @@ const isCheckBannedSelector = createSelector(
         npcClosetShuffle,
         gratitudeCrystalShuffle,
         staminaFruitShuffle,
+        goddessChestShuffle,
+        shopsanity,
     ) => {
         const bannedChecks = new Set(bannedLocations);
+        const splitHintRegion = (
+            checkName: string,
+        ) => {
+            return checkName.substring(checkName.indexOf(' - ')+3);
+        }
         const isBannedCubeCheckViaChest = (
             checkId: string,
             check: LogicalCheck,
         ) => {
-            console.log(cubeCheckToGoddessChestCheck[checkId])
-            console.log(logic.checks)
+            if (check.type === 'tr_cube' && !goddessChestShuffle) { return true; }
             return (
                 check.type === 'tr_cube' &&
                 bannedChecks.has(
-                    logic.checks[cubeCheckToGoddessChestCheck[checkId]].name,
+                    splitHintRegion(logic.checks[cubeCheckToGoddessChestCheck[checkId]].name),
                 )
             );
         };
@@ -568,7 +576,7 @@ const isCheckBannedSelector = createSelector(
             // Loose crystal checks can be banned to not require picking them up
             // in logic, but we want to allow marking them as collected.
             ((check.type !== 'loose_crystal' || gratitudeCrystalShuffle) &&
-                (bannedChecks.has(check.name) ||
+                (bannedChecks.has(splitHintRegion(check.name)) ||
                     areaNonprogress(logic.checks[checkId].area!))) ||
             isBannedChestViaCube(checkId) ||
             isBannedCubeCheckViaChest(checkId, check) ||
@@ -578,7 +586,9 @@ const isCheckBannedSelector = createSelector(
             (undergroundRupeesanity !== true && check.type === 'underground_rupee') ||
             (hiddenItemShuffle !== true && check.type === 'hidden_item') ||
             (npcClosetShuffle !== true && check.type === 'closet') ||
-            (staminaFruitShuffle !== true && check.type === 'stamina_fruit');
+            (goddessChestShuffle !== true && check.type === 'goddess') ||
+            (staminaFruitShuffle !== true && check.type === 'stamina_fruit') ||
+            (shopsanity !== true && check.type === 'beedle_shop');
     },
 );
 

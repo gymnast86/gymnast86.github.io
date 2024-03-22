@@ -54,7 +54,7 @@ import DiscordButton from './additionalComponents/DiscordButton';
 import { delay } from './utils/Promises';
 import React from 'react';
 import { ErrorBoundary, FallbackProps } from 'react-error-boundary';
-import { ImportButton } from './ImportExport';
+import { ImportButton, ImportYamlButton } from './ImportExport';
 import { getStoredRemote } from './LocalStorage';
 import Tooltip from './additionalComponents/Tooltip';
 
@@ -67,6 +67,8 @@ const optionCategorization_ = {
         'npc_closet_shuffle',
         'gratitude_crystal_shuffle',
         'stamina_fruit_shuffle',
+        'goddess_chest_shuffle',
+        'shopsanity',
         'small-key-mode',
         'boss-key-mode',
         'empty-unrequired-dungeons',
@@ -201,6 +203,7 @@ function LaunchButtons({ setDesiredRemote }: { setDesiredRemote: (ref: RemoteRef
                 Launch New Tracker
             </Button>
             <ImportButton setLogicBranch={setDesiredRemote} />
+            <ImportYamlButton setLogicBranch={setDesiredRemote} />
         </div>
     );
 }

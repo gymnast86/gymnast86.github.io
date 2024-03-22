@@ -68,7 +68,8 @@ export interface LogicalCheck {
         | 'gear_shop'
         | 'potion_shop'
         | 'tr_cube'
-        | 'tr_dummy';
+        | 'tr_dummy'
+        | 'goddess';
     name: string;
     originalItem: string | undefined;
     area: string | undefined;
@@ -540,6 +541,17 @@ export function parseLogic(raw: RawLogic): Logic {
                 // FIXME fix the data
                 region = 'Lanayru Desert';
             }
+            // probably shouldn't be hardcoded but w/e
+            if (locationId.includes('Knight Academy\\')) {
+                region = 'Knight Academy';
+            }
+            else if (locationId.includes('Ancient Harbour\\')) {
+                region = 'Ancient Harbour';
+            }
+            // why is the top part of the same area as the interior???????
+            else if (locationId.includes('Great Tree\\') && !locationId.includes('Top\\')) {
+                region = 'Inside the Great Tree';
+            }
             if (!region) {
                 throw new Error(`check ${locationId} has no region?`);
             }
@@ -762,8 +774,8 @@ export function parseLogic(raw: RawLogic): Logic {
     const vanillaConnections: AreaGraph['vanillaConnections'] = {};
     for (const [exitId, exitDef] of Object.entries(raw.exits)) {
         if (exitDef.vanilla) {
-            console.log(exitId)
-            console.log(exitDef.vanilla)
+            // console.log(exitId)
+            // console.log(exitDef.vanilla)
             vanillaConnections[exitId] =
                 entrancesByShortName[exitDef.vanilla].id;
         }
@@ -1073,7 +1085,7 @@ function getCheckType(
         return 'trial_treasure';
     } else if (checkType.includes('Loose Crystals')) {
         return 'loose_crystal';
-    } else if (checkType.includes('Beedle') && checkType.includes('Shop Purchases')) {
+    } else if (checkType.includes('Beedle') && checkType.includes('Airshop')) {
         return 'beedle_shop';
     } else if (checkType.includes('Gear Shop Purchases')) {
         return 'gear_shop';
@@ -1085,6 +1097,8 @@ function getCheckType(
         return 'closet'
     } else if (checkType.includes('Stamina Fruits')) {
         return 'stamina_fruit'
+    } else if (checkType.includes('Goddess Chest')) {
+        return 'goddess'
     } else if (
         checkType.includes('Tadtones') &&
         !checkName.includes('Water Dragon\'s Reward')
