@@ -129,7 +129,7 @@ export function ImportYamlButton({ setLogicBranch }: { setLogicBranch: (branch: 
         });
         const excludedLocs: Array<string> = settings.excluded_locations as string[];
         if (settings.npc_closet_shuffle === "vanilla") {
-            excludedLocs.push('Upper Skyloft - Knight Academy - In Zelda\'s Closet');
+            excludedLocs.push('Knight Academy - In Zelda\'s Closet');
         }
         const startingItems = settings.starting_inventory;
         settingsToLoad["excluded-locations"] = excludedLocs;
